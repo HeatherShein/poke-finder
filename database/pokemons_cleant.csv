@@ -1,0 +1,246 @@
+name,id,place,place-type,probability,level
+Tortipouss,387,lac-verite,Starter,100,5
+Tiplouf,393,lac-verite,Starter,100,5
+Ouisticram,390,lac-verite,Starter,100,5
+Créfollet,481,lac-verite,Fuyard,100,50
+Créhelf,480,lac-savoir,Grotte,100,50
+Créfadet,482,lac-courage,Grotte,100,50
+Cresselia,488,ile-pleine-lune,Ile,100,50
+Giratina,487,grotte-retour,Dernier Pilier,100,70
+Spiritomb,442,route-209,tour-secrete,100,25
+Heatran,485,mont-abrupt,Grotte,100,70
+Motisma,479,vieux-chateau,Télévision,100,15
+Registeel,379,parc-rosa-rugosa,Tablette Guide,100,70
+Regice,378,parc-rosa-rugosa, Tablette Guide,100,70
+Regirock,377,parc-rosa-rugosa, Tablette Guide,100,70
+Regigigas,486,temple-frimapic,Dernier Etage,100,70
+Zarbi,201,ruines-bonville,Grotte,100,14-25
+Baudrive,425,parc-eolien,vendredi,100,22
+Étourmi,396,route-201,Hautes herbes,50%M./J.40%Nuit,2-3
+Keunotor-,399,route-201,Hautes herbes,50%M./J.60%Nuit,2-3
+Nidoran♀-,29,route-201,Poké Radar,20%DE2%PS,3DE2PS
+Nidoran♂-,32,route-201,Poké Radar,2%DE20%PS,2DE3PS
+Doduo,84,route-201,Troupeaux,40%,2
+Crikzik-,401,route-202,Hautes herbes,10%Mat.20%Nuit,3Matin3-4Nuit
+Lixy-,403,route-202,Hautes herbes,30%,3-4
+Fouinette-,161,route-202,Poké Radar,22%,2-4
+Zigzaton-,263,route-202,Troupeaux,40%,3
+Nosferapti,41,mont-couronne,Surf,90%,20-40
+Abra-,63,route-203,Hautes herbes,15%,4-5
+Tarsal,280,route-203,Poké Radar,21%,4-6
+Kirlia,281,route-203,Poké Radar,1%,6
+Psykokwak-,54,route-203,Surf,90%,20-40
+Akwakwak-,55,route-225,Surf,70%,40-55
+Osselait-,104,route-203,Troupeaux,40%,4
+Magicarpe-,129,route-203,Super Canne,55%,10-25
+Poissirène-,118,route-203,Super Canne,45%,10-25
+Poissoroy-,119,route-203,Méga Canne,45%,20-50
+Léviator,130,route-203,Méga Canne,55%,30-55
+Rozbouton,406,foret-vestigion,Hautes herbes,29%M./J.19%Nuit,10-12Matin et jour11-12Nuit
+Tournegrin-,191,route-204,Poké Radar,22%,6-8
+Pachirisu-,417,parc-eolien,Hautes herbes,25%,7-8
+Mustébouée-,418,route-224,Hautes herbes,4%,23
+Sancoki Occident-,422,parc-eolien,Hautes herbes,30%,7-9
+RamolossPS,79,route-205,Poké Radar,22%,11-12
+GranivolDE,187,route-205,Poké Radar,20%,11
+FloravolDE,188,route-205,Poké Radar,2%,12
+Barloche,339,route-205,Super Canne,45%,10-25
+Barbicha,340,route-205,Méga Canne,45%,20-50
+Racaillou,74,grotte-ruinophile,Au sol,80%,24
+Ponyta-,77,route-210,Hautes herbes,50%Jour30%M./N.,18-20
+Mélokrik-,402,route-214,Hautes herbes,5%M./J.25%Nuit,24Matin et jour23-24Nuit
+MoufouetteDE,434,route-206,Hautes herbes,25%,14-16
+Archéomire,436,grotte-retour,Au sol,5%,64
+Balbuto,343,route-206,Poké Radar,22%,14-16
+Tarinor-,299,route-206,Troupeaux,40%,14
+Machoc-,66,route-207,Hautes herbes,35%Mat.45%Jour25%Nuit,5-7
+CerfroussePS-,234,route-207,Poké Radar,22%,6-7
+EmbrylexDE,246,route-207,Poké Radar,22%,6-7
+Phanpy-,231,route-207,Troupeaux,40%,5
+Méditikka,307,route-211,Hautes herbes,35%,27-28
+Castorno,400,lac-courage,Hautes herbes,45%,34-36
+Debugant-,236,route-208,Poké Radar,22%,17-18
+Insolourdo-,206,route-208,Troupeaux,40%,16
+Fantominus,92,tour-perdue,Au sol,50%M./J.40%Nuit,20-22
+Leveinard-,113,route-209,Hautes herbes,5%,16
+Étourvol,397,lac-courage,Hautes herbes,25%M./J.5%Nuit,34-36Matin et jour35Nuit
+ManzaïPS-,438,route-209,Hautes herbes,25%Mat.5%J./N.,16
+Mime Jr.DE,439,route-209,Hautes herbes,25%Mat.5%J./N.,16
+Tauros-,128,route-209,Poké Radar,20%DE2%PS,17DE16PS
+Écrémeuh-,241,route-209,Poké Radar,2%DE20%PS,16DE17PS
+Snubbull-,209,route-209,Troupeaux,40%,16
+Machopeur-,67,route-225,Hautes herbes,5%,51
+Gravalanch,75,ile-de-fer,Au sol,39%,30-34
+Noarfang,164,lac-courage,Hautes herbes,20%Nuit,34-36
+Korillon-,433,route-211,Hautes herbes,10%,27-28
+Tylton,333,route-211,Poké Radar,22%,27-28
+Axoloto,194,route-212,Surf,90%,20-40
+Rosélia,315,route-225,Hautes herbes,5%DE15%PS,51
+Tadmorv-,88,route-212,Poké Radar,22%,18-20
+Maraiste,195,grand-marais,Surf,5%,20-40
+Goélise,278,route-229,Surf,70%,40-55
+Mustéflott-,419,route-218,Hautes herbes,35%,28-30
+Sancoki Orient-,422,route-213,Hautes herbes,40%M./J.50%Nuit,20-22
+Hélédelle,277,route-213,Poké Radar,22%,20-22
+Absol-,359,route-213,Troupeaux,40%,20
+Tentacool,72,route-213,Surf,60%,20-30
+Tentacruel,73,chenal-223,Surf,60%,35-45
+Bekipan,279,route-224,Surf,65%,40-55
+Rémoraid-,223,route-213,Super Canne,45%,10-25
+Octillery-,224,route-213,Méga Canne,45%,20-50
+Sharpedo,319,route-213,Méga Canne,15%,40-55
+SimularbrePS-,185,route-214,Hautes herbes,15%,23-24
+Girafarig,203,rive-lac-courage,Hautes herbes,30%,21-22
+DémolossePS,229,route-214,Poké Radar,22%,23-24
+GrahyènaDE-,262,route-214,Poké Radar,22%,23-24
+Spoink-,325,route-214,Troupeaux,40%,22-23
+Kadabra-,64,route-215,Hautes herbes,15%,20-22
+Soporifik-,96,route-215,Troupeaux,40%,20-21
+Farfuret,215,temple-frimapic,Au sol,35%,54-56
+Blizzi,459,route-216,Hautes herbes,25%,32-33
+Stalgamin-,361,route-216,Poké Radar,22%,33-34
+Cadoizo,225,route-216,Troupeaux,40%,32
+Charmina,308,route-217,Hautes herbes,20%,35-36
+Marcacrin,220,route-217,Troupeaux,40%,34
+M. MimeDE,122,route-218,Hautes herbes,15%,29-30
+ChaglamPS-,431,route-222,Hautes herbes,20%,40
+Tritosor Occident,423,route-218,Hautes herbes,20%,28-30
+Métamorph-,132,route-218,Poké Radar,22%,29-30
+Voltorbe-,100,route-218,Troupeaux,40%,28
+Écayon-,456,route-218,Super Canne,45%,10-25
+Luminéon-,457,route-218,Méga Canne,45%,20-50
+Coquiperl-,366,route-219,Méga Canne,15%,20-30
+Loupio,170,chenal-220,Méga Canne,40%,15-25
+Lanturn,171,chenal-220,Méga Canne,5%,20-45
+MoufflairDE,435,route-221,Hautes herbes,15%,29-30
+Nidorina-,30,route-221,Poké Radar,20%DE2%PS,29DE30PS
+Nidorino-,33,route-221,Poké Radar,2%DE20%PS,30DE29PS
+Canarticho,83,route-221,Troupeaux,40%,28
+ChaffreuxPS-,432,route-222,Hautes herbes,15%,41-42
+Pijako,441,route-222,Hautes herbes,20%M./J.,40-41
+Tritosor OrientPS,423,route-222,Hautes herbes,10%M./J.20%Nuit,40-42
+Lainergie-,180,route-222,Poké Radar,22%,41-42
+Skitty-,300,route-222,Troupeaux,40%,40
+Babimanta,458,chenal-223,Surf,10%,30-45
+Wailmer-,320,chenal-223,Méga Canne,40%,30-40
+Wailord-,321,chenal-223,Méga Canne,5%,35-55
+Ortide,44,route-224,Hautes herbes,5%,53
+Boustiflor,70,route-224,Hautes herbes,5%,53
+Charmillon,267,route-224,Hautes herbes,5%,23
+Tritosor Orient,423,chenal-230,Hautes herbes,5%,51
+Téraclope-,356,route-224,Poké Radar,20%,52-54
+Skelénox-,355,route-224,Poké Radar,2%,23
+Natu,177,route-224,Troupeaux,40%,53
+Lovdisc-,370,route-224,Méga Canne,15%,20-30
+Rattata-,19,route-225,Hautes herbes,5%,20-22
+Rattatac-,20,route-225,Hautes herbes,30%,50-52
+Piafabec,21,route-225,Hautes herbes,5%,20-22
+Rapasdepic,22,route-225,Hautes herbes,40%M./J.20%Nuit,50-52Matin et jour51Nuit
+Branette-,354,route-225,Hautes herbes,20%Nuit,50-52
+Férosinge-,56,route-225,Poké Radar,2%,22
+Colossinge-,57,route-225,Poké Radar,20%,51-52
+Makuhita-,296,route-225,Troupeaux,40%,50-51
+Ptitard-,60,route-225,Super Canne,45%,10-25
+Têtarte-,61,route-227,Surf,70%,40-55
+OtariaDE-,86,chenal-226,Surf,30%,35-45
+LamantineDE,87,chenal-226,Surf,5%,40-55
+ObaliePS,363,chenal-226,Surf,30%,35-45
+PhogleurPS,364,chenal-226,Surf,5%,40-55
+Krabby-,98,chenal-226,Troupeaux,40%,52
+Hypotrempe-,116,chenal-226,Super Canne,45%,10-25
+Hypocéan-,117,chenal-226,Méga Canne,45%,30-55
+Relicanth,369,chenal-226,Méga Canne,15%,40-50
+Nosferalto,42,route-victoire,Surf,90%,40-55
+Smogogo-,110,route-227,Hautes herbes,10%,55
+Rhinocorne,111,route-227,Hautes herbes,5%,22-24
+Rhinoféros,112,route-228,Hautes herbes,20%M./J.10%Nuit,52-53Matin et jour53Nuit
+Airmure,227,route-227,Hautes herbes,5%,56
+Chamallot,322,route-227,Hautes herbes,5%,22-24
+Camérupt,323,mont-abrupt,Au sol,5%,58
+Chartor-,324,route-227,Poké Radar,22%,24-55
+Spinda-,327,route-227,Troupeaux,40%,55
+Taupiqueur-,50,route-228,Hautes herbes,5%,23-25
+Triopikeur-,51,route-228,Hautes herbes,30%,52-54
+Cacnea-,331,route-228,Hautes herbes,5%,23-25
+Cacturne,332,route-228,Hautes herbes,20%M./J.40%Nuit,53Matin et jour52-53Nuit
+Hippodocus-,450,route-228,Hautes herbes,20%M./J.10%Nuit,52-54Matin et jour54Nuit
+Kraknoix-,328,route-228,Poké Radar,2%,25
+Vibraninf,329,route-228,Poké Radar,20%,53-54
+Terhal,374,route-228,Troupeaux,40%,53
+Mystherbe,43,route-229,Hautes herbes,5%,20-22
+Chétiflor,69,route-229,Hautes herbes,5%,20-22
+InsécateurDE,123,route-229,Hautes herbes,5%,52
+ScarabrutePS-,127,route-229,Hautes herbes,5%,52
+Coxyclaque,166,route-229,Hautes herbes,20%Mat.,52
+Migalos,168,route-229,Hautes herbes,20%Nuit,52
+Muciole-,313,route-229,Hautes herbes,5%DE10%PS,50
+Lumivole-,314,route-229,Hautes herbes,10%DE5%PS,50
+RoséliaDE,315,route-229,Hautes herbes,10%,50
+Roucool,16,route-229,Troupeaux,40%,51
+Mimitoss,48,route-229,Poké Radar,2%,22
+Aéromite,49,route-229,Poké Radar,20%,50
+CharmillonDE,267,foret-vestigion,Hautes herbes,2%,12
+PapinoxPS,269,foret-vestigion,Hautes herbes,2%,12
+Togepi,175,chenal-230,Poké Radar,22%,18-23
+Corayon,222,chenal-230,Troupeaux,40%,50
+CornèbreDE,198,foret-vestigion,Hautes herbes,20%Nuit,10-11
+FeuforêvePS-,200,foret-vestigion,Hautes herbes,20%Nuit,10-11
+Chenipotte-,265,foret-vestigion,Hautes herbes,30%M./J.20%Nuit,10-11Matin et jour10Nuit
+ArmulysDE-,266,foret-vestigion,Hautes herbes,20%,10
+BlindalysPS-,268,foret-vestigion,Hautes herbes,20%,10
+Laporeille-,427,foret-vestigion,Hautes herbes,19%,10-12
+Ningale,290,foret-vestigion,Poké Radar,22%,10-12
+Parecool-,287,foret-vestigion,Troupeaux,40%,10
+Luxio-,404,forge-fuego,Hautes herbes,10%,29
+GranivolPS,187,forge-fuego,Poké Radar,20%,29
+FloravolPS,188,forge-fuego,Poké Radar,2%,30
+GalekidDE,304,forge-fuego,Poké Radar,22%,29-30
+Magnéti,81,forge-fuego,Troupeaux,40%,28-29
+Kokiyas-,90,forge-fuego,Méga Canne,15%,20-40
+Hoothoot,163,grand-marais,Hautes herbes (Zones 3 et 4),20%Nuit,22-24
+Marill,183,manoir-pokemon,Hautes herbes,5%,16/18
+Azurill,298,grand-marais,Hautes herbes (Zone 5),5%,20
+Carvanha,318,grand-marais,Méga Canne,45%,15-30
+Rapion,451,grand-marais,Hautes herbes,10%,22-26
+Cradopaud,453,grand-marais,Hautes herbes,10%,22-26
+Vortente-,455,grand-marais,Hautes herbes,10%,22-26
+Paras,46,grand-marais,Hautes herbes,10%,22-26
+Noeunoeuf,102,grand-marais,Hautes herbes,10%,22-26
+Kangourex-,115,grand-marais,Hautes herbes,10%,22-26
+Yanma,193,grand-marais,Hautes herbes,10%,22-26
+Balignon-,285,grand-marais,Hautes herbes,10%,22-26
+Gloupti-,316,grand-marais,Hautes herbes,10%,22-26
+Drascore,452,grand-marais,Hautes herbes,10%,22-26
+Coatox,454,grand-marais,Hautes herbes,10%,22-26
+Spectrum,93,grotte-retour,Au sol,30%,64-66
+Archéodong,437,grotte-retour,Au sol,35%,65-66
+Griknot,443,grotte-des-egares,Au sol,15%,15-17
+Hippopotas-,449,grotte-ruinophile,Au sol,20%,22-25
+Qwilfish,211,ile-de-fer,Méga Canne,15%,20-40
+Onix,95,mont-abrupt,Au sol,5%,56
+Steelix,208,temple-frimapic,Au sol,20%,54-56
+Qulbutoké-,202,lac-courage,Poké Radar,22%,35-36
+Excelangue-,108,lac-courage,Troupeaux,40%,34-36
+Lippouti,238,lac-savoir,Troupeaux,40%,35
+Arakdo,283,lac-verite,Troupeaux,40%,2
+Mélofée-,35,manoir-pokemon,Hautes herbes,5%,16/18
+Rondoudou,39,manoir-pokemon,Hautes herbes,5%,16/18
+Miaouss-,52,manoir-pokemon,Hautes herbes,5%,16/18
+Évoli-,133,manoir-pokemon,Hautes herbes,5%,16/18
+Porygon-,137,manoir-pokemon,Hautes herbes,5%,16/18
+Mélo-,173,manoir-pokemon,Hautes herbes,5%,16/18
+Toudoudou,174,manoir-pokemon,Hautes herbes,5%,16/18
+Posipi-,311,manoir-pokemon,Hautes herbes,5%,16/18
+Négapi-,312,manoir-pokemon,Hautes herbes,5%,16/18
+Morphéo-,351,manoir-pokemon,Hautes herbes,5%,16/18
+Manzaï-,438,manoir-pokemon,Hautes herbes,5%,16/18
+Mime Jr.,439,manoir-pokemon,Hautes herbes,5%,16/18
+Ptiravi-,440,manoir-pokemon,Hautes herbes,5%,16/18
+Limagma-,218,mont-abrupt,Au sol,5%,27-29
+Volcaropod,219,mont-abrupt,Au sol,30%,57-58
+Ramboum-,294,mont-couronne,Poké Radar,22%,39-40
+Barpau-,349,mont-couronne,Pêche dans 4 cases particulières,50%,10-20
+Wattouat-,179,parc-eolien,Poké Radar,22%,7-9
+Dynavolt-,309,parc-eolien,Troupeaux,40%,7
+Lokhlass,131,route-victoire,Surf,10%,40-60
+Éoko-,358,source-des-adieux,Hautes herbes,10%,52-54
