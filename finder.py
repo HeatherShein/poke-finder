@@ -8,7 +8,7 @@ import pandas as pd
 
 # Find pokemon definition
 def find_pokemon(**kwargs):
-    """ Finds a pokemon based on specific criterions
+    """Finds a pokemon based on specific criterions
     Parameters
     ----------
     name: str (name of the pokemon)
@@ -20,21 +20,23 @@ def find_pokemon(**kwargs):
     None
     """
     # Open database
-    df = pd.read_csv("./database/pokemons_cleant.csv")
-    if kwargs['name'] is not None:
-        name = kwargs['name']
-        if len(df[df['name'] == name]) != 0:
-            print(df[df['name'] == name])
+    df = pd.read_csv(
+        "./data/sinnoh/pokemons.csv"
+    )  # TODO: change this according to region
+    if kwargs["name"] is not None:
+        name = kwargs["name"]
+        if len(df[df["name"] == name]) != 0:
+            print(df[df["name"] == name])
         else:
             print("Error, name not found (either mispelled or not in database)")
-    if kwargs['id'] is not None:
-        id = kwargs['id']
-        if kwargs['national'] is True:
+    if kwargs["id"] is not None:
+        id = kwargs["id"]
+        if kwargs["national"] is True:
             new_id = id
         else:
-            new_id = id + 386 # Offset to regional pokedex
-        if len(df[df['id'] == new_id]) != 0:
-                print(df[df['id'] == new_id])
+            new_id = id + 386  # Offset to regional pokedex
+        if len(df[df["id"] == new_id]) != 0:
+            print(df[df["id"] == new_id])
         else:
             print("Error, id not found (not in database)")
 
@@ -46,14 +48,14 @@ def main():
     parser = argparse.ArgumentParser()
 
     # Configure arguments
-    parser.add_argument('--name', type=str)
-    parser.add_argument('--id', type=int)
-    parser.add_argument('--national', type=bool, default=False)
+    parser.add_argument("--name", type=str)
+    parser.add_argument("--id", type=int)
+    parser.add_argument("--national", type=bool, default=False)
 
     # Read arguments
     try:
         args = parser.parse_args()
-        parsed_args_dict = {k: v for k, v in vars(args).items() if k != 'func'}
+        parsed_args_dict = {k: v for k, v in vars(args).items() if k != "func"}
         find_pokemon(**parsed_args_dict)
     except Exception as err:
         print(err)
