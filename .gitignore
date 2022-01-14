@@ -1,0 +1,12 @@
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache
+
+# CSV of regions
+data/sinnoh/routes/*.csv
+
+# Virtual environment
+venv
+virtualenv

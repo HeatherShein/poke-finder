@@ -37,12 +37,41 @@ This project was developed using :
 
 ```sh
 python3 finder.py --name="Rosélia"
-    name     id   place      place-type      probability  level
-76  Rosélia  315  route-225  Hautes herbes   5%DE15%PS    51
 
-python3 finder.py --id=10
-    name     id   place      place-type     probability       level
-17  Étourmi  396  route-201  Hautes herbes  50%M./J.40%Nuit   2-3
+# ---------- # Pokémon #315 : Rosélia # ---------- #
+
+
+# Place: route-212
+# Place_type: Hautes herbes, Probability: 15%, Level: 16-17
+
+# Place: route-221
+# Place_type: Hautes herbes, Probability: 10%, Level: 29
+
+# Place: route-224
+# Place_type: Hautes herbes, Probability: 20%, Level: 52-54
+
+# Place: route-225
+# Place_type: Hautes herbes, Probability: 5%DE15%PS, Level: 51
+
+# Place: route-229
+# Place_type: Hautes herbes, Probability: 10%, Level: 50
+
+# Place: grand-marais
+# Place_type: Hautes herbes, Probability: 10%, Level: 22-26
+
+# Place: manoir-pokemon
+# Place_type: Hautes herbes, Probability: 30%, Level: 16-17
+
+python3 finder.py --id=200
+
+# ---------- # Pokémon #200 : Feuforêve # ---------- #
+
+
+# Place: foret-vestigion
+# Place_type: Hautes herbes, Probability: 20%Nuit, Level: 10-11
+
+# Place: tour-perdue
+# Place_type: Au sol, Probability: 20%Nuit, Level: 17
 ```
 
 ## Installing project
@@ -57,6 +86,15 @@ source venv/bin/activate
 pip install pandas beautifulsoup4 requests
 ```
 
+Then, to install the database :
+
+```sh
+# Move to the data folder (from project's root)
+cd data
+# Launch creation
+python3 create_database.py
+```
+
 
 ## Use the app
 
@@ -66,8 +104,8 @@ The app is command-line based. To look for a pokemon, you may use :
 # On project's root
 # To find by name
 python3 finder.py --name="Your Pokemon's Name"
-# To find by id (National or Regional id is indicated with the second argument)
-python3 finder.py --id=your_id --national=True/False
+# To find by id
+python3 finder.py --id=your_id
 ```
 
 
@@ -84,6 +122,7 @@ To understand what is going on, check [This file](./docs/data.md)
 .
 ├── data                    # database folder, in which data is scrapped and stored
 │   ├── sinnoh              # region folder
+│   |    ├── routes         # routes folder
 │   |    ├── places.txt     # text file indicating with webpage to scrap
 │   |    ├── stopwords.txt  # text file indicating which table name to ignore
 │   |    ├── pokemons.csv   # csv file containing infos on pokemons once scrapped
