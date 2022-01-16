@@ -36,31 +36,21 @@ This project was developed using :
 ### Example
 
 ```sh
-python3 finder.py --name="Rosélia"
+python3 finder.py --name="Pikachu"
 
-# ---------- # Pokémon #315 : Rosélia # ---------- #
+# ---------- # Pokémon #25: Pikachu # ---------- #
 
-
-# Place: route-212
-# Place_type: Hautes herbes, Probability: 15%, Level: 16-17
-
-# Place: route-221
-# Place_type: Hautes herbes, Probability: 10%, Level: 29
-
-# Place: route-224
-# Place_type: Hautes herbes, Probability: 20%, Level: 52-54
-
-# Place: route-225
-# Place_type: Hautes herbes, Probability: 5%DE15%PS, Level: 51
-
-# Place: route-229
-# Place_type: Hautes herbes, Probability: 10%, Level: 50
-
-# Place: grand-marais
-# Place_type: Hautes herbes, Probability: 10%, Level: 22-26
 
 # Place: manoir-pokemon
-# Place_type: Hautes herbes, Probability: 30%, Level: 16-17
+
+# place_type: Hautes herbes
+# probability_M: 10
+# probability_J: 10
+# probability_N: 10
+# probability_DE: 10
+# probability_PS: 10
+# level: 18
+
 
 python3 finder.py --id=200
 
@@ -68,10 +58,24 @@ python3 finder.py --id=200
 
 
 # Place: foret-vestigion
-# Place_type: Hautes herbes, Probability: 20%Nuit, Level: 10-11
+
+# place_type: Hautes herbes
+# probability_M: 20
+# probability_J: 20
+# probability_N: 20
+# probability_DE: 20
+# probability_PS: 20
+# level: 10-11
 
 # Place: tour-perdue
-# Place_type: Au sol, Probability: 20%Nuit, Level: 17
+
+# place_type: Au sol
+# probability_M: 20
+# probability_J: 20
+# probability_N: 20
+# probability_DE: 20
+# probability_PS: 20
+# level: 17
 ```
 
 ## Installing project

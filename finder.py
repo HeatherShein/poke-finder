@@ -6,51 +6,6 @@ import argparse
 import pandas as pd
 
 
-def find_by_name(df, name):
-    """Finds infos about a pokemon based on a name
-    Parameters
-    ----------
-    df: DataFrame
-    name: str (name of the pokemon)
-
-    Output
-    ----------
-    None
-    """
-    # Find places
-    row = df[df["name"] == name]
-    if len(row) > 0:  # This pokemon exists
-        print(f"# ---------- # {name} # ---------- #")
-        print()
-        print()
-        places = row.places
-        if len(places) > 0:  # This pokemon is found on places
-            # Clean places (pandas does not correctly support array in cells)
-            places = places.values[0][1:-1].replace("'", "").replace(" ", "").split(",")
-
-            # Print informations for each route
-            # TODO: change this with required information (max prob)
-            for place in places:
-                # TODO: change this according to region
-                place_df = pd.read_csv("../data/sinnoh/routes/" + place + ".csv")
-                row = place_df[place_df["name"] == name]
-                values = {
-                    x: row[x].values[0] for x in ["place_type", "probability", "level"]
-                }
-                print(f"# Place: {place}")
-                print()
-                print(
-                    f"# Place_type: {values['place_type']},\
-                    Probability: {values['probability']}, Level: {values['level']}"
-                )
-        else:
-            print(df[df["name"] == name].localisation)
-    else:
-        print(
-            f"Error: {name} not found in database (either mispelled or not in right region)."
-        )
-
-
 # Find pokemon definition
 def find_pokemon(**kwargs):
     """Finds a pokemon based on specific criterions
@@ -85,11 +40,10 @@ def find_pokemon(**kwargs):
         print(f"# ---------- # {intro} # ---------- #")
         print()
         print()
-        places = row.places
-        if len(places) > 0:  # This pokemon is found on places
+        places = row.places.values[0]
+        if places != "[]":  # This pokemon is found on places
             # Clean places (pandas does not correctly support array in cells)
-            places = places.values[0][1:-1].replace("'", "").replace(" ", "").split(",")
-
+            places = places[1:-1].replace("'", "").replace(" ", "").split(",")
             # Print informations for each route
             # TODO: change this with required information (max prob)
             for place in places:
@@ -97,13 +51,21 @@ def find_pokemon(**kwargs):
                 place_df = pd.read_csv("data/sinnoh/routes/" + place + ".csv")
                 row = place_df[place_df[criteria_type] == criteria]
                 values = {
-                    x: row[x].values[0] for x in ["place_type", "probability", "level"]
+                    x: row[x].values[0]
+                    for x in [
+                        "place_type",
+                        "probability_M",
+                        "probability_J",
+                        "probability_N",
+                        "probability_DE",
+                        "probability_PS",
+                        "level",
+                    ]
                 }
                 print(f"# Place: {place}")
-                print(
-                    f"# Place_type: {values['place_type']},\
-                    Probability: {values['probability']}, Level: {values['level']}"
-                )
+                print()
+                for key in values.keys():
+                    print(f"# {key}: {values[key]}")
                 print()
         else:
             print(df[df[criteria_type] == criteria].localisation)
