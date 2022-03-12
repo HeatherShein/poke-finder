@@ -59,7 +59,9 @@ def find_pokemon(**kwargs):
                         "probability_N",
                         "probability_DE",
                         "probability_PS",
-                        "level",
+                        "level_M",
+                        "level_J",
+                        "level_N",
                     ]
                 }
                 print(f"# Place: {place}")
