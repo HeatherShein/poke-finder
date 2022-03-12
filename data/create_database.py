@@ -45,6 +45,31 @@ def scrap_pokemons():
     # Convert to dataframe
     pokemon_df = pd.DataFrame.from_dict(pokemon_dict)
 
+    # Get regional id webpage
+    main_url = "https://www.pokebip.com/page/jeuxvideo/"
+    region_url = "pokemon-diamant-etincelant-perle-scintillante/remplir-dex-regional"
+    r = requests.get(main_url + region_url)
+    soup = BeautifulSoup(r.content, "html.parser")
+    table = soup.table
+
+    # Get every pokemon from the region
+    pokemons = {}
+    trs = table.find_all("tr")
+    for i in range(1, len(trs)):
+        tds = trs[i].find_all("td")
+        name, pokemon_id = tds[2].text, int(tds[0].text)
+        pokemons[name] = pokemon_id
+
+    # Update regional id
+    def update_id_regional(row):
+        if row["name"] in pokemons.keys():
+            row["id_regional"] = pokemons[row["name"]]
+        else:
+            row["id_regional"] = -1
+        return row
+
+    pokemon_df = pokemon_df.apply(update_id_regional, axis=1)
+
     # Return infos
     return pokemon_df
 

@@ -1,494 +1,494 @@
-,id,name,localisation,places
-0,1,Bulbizarre,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[]
-1,2,Herbizarre,Évolution de Bulbizarre au niveau 16,[]
-2,3,Florizarre,Évolution de Herbizarre au niveau 32,[]
-3,4,Salamèche,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[]
-4,5,Reptincel,Évolution de Salamèche au niveau 16,[]
-5,6,Dracaufeu,Évolution de Reptincel au niveau 36,[]
-6,7,Carapuce,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",[]
-7,8,Carabaffe,Évolution de Carapuce au niveau 16,[]
-8,9,Tortank,Évolution de Carabaffe au niveau 36,[]
-9,10,Chenipan,"Diamant : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[]
-10,11,Chrysacier,Évolution de Chenipan au niveau 7,[]
-11,12,Papilusion,Évolution de Chrysacier au niveau 10,[]
-12,13,Aspicot,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[]
-13,14,Coconfort,Évolution de Aspicot au niveau 7,[]
-14,15,Dardargnan,Évolution de Coconfort au niveau 10,[]
-15,16,Roucool,Route 229,['route-229']
-16,17,Roucoups,Évolution de Roucool au niveau 18,[]
-17,18,Roucarnage,Évolution de Roucoups au niveau 36,[]
-18,19,Rattata,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 225","['route-225', 'chenal-226']"
-19,20,Rattatac,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 225Évolution de Rattata au niveau 20","['route-225', 'chenal-226']"
-20,21,Piafabec,"Chenal 226, Route 225","['route-225', 'chenal-226']"
-21,22,Rapasdepic,"Chenal 226, Mont Abrupt, Route 225, Route 227Évolution de Piafabec au niveau 20","['route-225', 'chenal-226', 'route-227', 'mont-abrupt']"
-22,23,Abo,"Diamant : Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[]
-23,24,Arbok,Évolution de Abo au niveau 22,[]
-24,25,Pikachu,Jardin TrophéeÉvolution de Pichu par montée de niveau avec beaucoup d'amitié,['manoir-pokemon']
-25,26,Raichu,Évolution de Pikachu en utilisant une Pierre Foudre,[]
-26,27,Sabelette,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables)",[]
-27,28,Sablaireau,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables)Évolution de Sabelette au niveau 22",[]
-28,29,Nidoran♀,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 201",['route-201']
-29,30,Nidorina,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Rive Lac Courage, Route 221Évolution de Nidoran♀️ au niveau 16","['route-221', 'rive-lac-courage']"
-30,31,Nidoqueen,Évolution de Nidorina en utilisant une Pierre Lune,[]
-31,32,Nidoran♂,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 201",['route-201']
-32,33,Nidorino,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Rive Lac Courage, Route 221Évolution de Nidoran♂️ au niveau 16","['route-221', 'rive-lac-courage']"
-33,34,Nidoking,Évolution de Nidorino en utilisant une Pierre Lune,[]
-34,35,Mélofée,"Jardin Trophée, Mont CouronnéÉvolution de Mélo par montée de niveau avec beaucoup d'amitié","['manoir-pokemon', 'mont-couronne']"
-35,36,Mélodelfe,Évolution de Mélofée en utilisant une Pierre Lune,[]
-36,37,Goupix,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[]
-37,38,Feunard,Évolution de Goupix en utilisant une Pierre Feu,[]
-38,39,Rondoudou,Jardin TrophéeÉvolution de Toudoudou par montée de niveau avec beaucoup d'amitié,['manoir-pokemon']
-39,40,Grodoudou,Évolution de Rondoudou en utilisant une Pierre Lune,[]
-40,41,Nosferapti,"Chemin Rocheux, Entrée de Charbourg, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grotte des Égarés, Mine de Charbourg, Mont Couronné, Rive Lac Savoir, Route 203, Route 204, Route 206, Route 207, Route 208, Route 209, Route 211, Route 216, Route 217, Tour Perdue, Île de Fer","['route-203', 'route-204', 'route-206', 'route-207', 'route-208', 'route-209', 'route-211', 'route-216', 'route-217', 'chemin-rocheux', 'entree-charbourg', 'grotte-des-egares', 'ile-de-fer', 'mine-charbourg', 'mont-couronne', 'rive-lac-savoir', 'tour-perdue']"
-41,42,Nosferalto,"Chemin Rocheux, Entrée de Charbourg, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grotte du Retour, Mont Abrupt, Mont Couronné, Route 227, Route Victoire, Temple de Frimapic, Tour Perdue, Île de FerÉvolution de Nosferapti au niveau 22","['route-227', 'chemin-rocheux', 'entree-charbourg', 'grotte-retour', 'ile-de-fer', 'mont-abrupt', 'mont-couronne', 'route-victoire', 'temple-frimapic', 'tour-perdue']"
-42,43,Mystherbe,"Chenal 230, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229","['route-229', 'chenal-230']"
-43,44,Ortide,"Chenal 230, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 224, Route 229Évolution de Mystherbe au niveau 21","['route-224', 'route-229', 'chenal-230']"
-44,45,Rafflesia,Évolution de Ortide en utilisant une Pierre Plante,[]
-45,46,Paras,"Grand Marais, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",['grand-marais']
-46,47,Parasect,Évolution de Paras au niveau 24,[]
-47,48,Mimitoss,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229",['route-229']
-48,49,Aéromite,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229Évolution de Mimitoss au niveau 31",['route-229']
-49,50,Taupiqueur,Route 228,['route-228']
-50,51,Triopikeur,Route 228Évolution de Taupiqueur au niveau 26,['route-228']
-51,52,Miaouss,Jardin Trophée,['manoir-pokemon']
-52,53,Persian,Évolution de Miaouss au niveau 28,[]
-53,54,Psykokwak,"Bonaugure, Chemin Rocheux, Célestia, Entrée de Charbourg, Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Lac Courage, Lac Savoir, Lac Vérité, Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 214, Vestigion","['route-203', 'route-204', 'route-205', 'route-208', 'route-209', 'route-210', 'route-212', 'route-214', 'chemin-rocheux', 'entree-charbourg', 'grand-marais', 'lac-courage', 'lac-savoir', 'lac-verite']"
-54,55,Akwakwak,"Aire de Détente, Bonaugure, Chemin Rocheux, Chenal 226, Chenal 230, Célestia, Entrée de Charbourg, Grand Marais, Lac Courage, Lac Savoir, Lac Vérité, Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 214, Route 225, Source des Adieux, VestigionÉvolution de Psykokwak au niveau 33","['route-203', 'route-204', 'route-205', 'route-208', 'route-209', 'route-210', 'route-212', 'route-214', 'route-225', 'chenal-226', 'chenal-230', 'chemin-rocheux', 'entree-charbourg', 'grand-marais', 'lac-courage', 'lac-savoir', 'lac-verite', 'source-des-adieux']"
-55,56,Férosinge,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 225","['route-225', 'chenal-226']"
-56,57,Colossinge,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 225Évolution de Férosinge au niveau 28","['route-225', 'chenal-226']"
-57,58,Caninos,"Diamant : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[]
-58,59,Arcanin,Évolution de Caninos en utilisant une Pierre Feu,[]
-59,60,Ptitard,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 225, Route 227, Route 228","['route-225', 'route-227', 'route-228']"
-60,61,Têtarte,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 225, Route 227, Route 228Évolution de Ptitard au niveau 25","['route-225', 'route-227', 'route-228']"
-61,62,Tartard,Évolution de Têtarte en utilisant une Pierre Eau,[]
-62,63,Abra,"Charbourg, Route 203, Route 215","['route-203', 'route-215']"
-63,64,Kadabra,"Grands Souterrains (Biome Cristaux), Route 215, Route VictoireÉvolution de Abra au niveau 16","['route-215', 'route-victoire']"
-64,65,Alakazam,Évolution de Kadabra par échange,[]
-65,66,Machoc,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Mont Couronné, Route 207, Route 208, Route 210","['route-207', 'route-208', 'route-210', 'mont-couronne']"
-66,67,Machopeur,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Mont Abrupt, Mont Couronné, Rive Lac Savoir, Route 210, Route 211, Route 216, Route 217, Route 225, Route VictoireÉvolution de Machoc au niveau 28","['route-210', 'route-211', 'route-216', 'route-217', 'route-225', 'chenal-226', 'mont-abrupt', 'mont-couronne', 'rive-lac-savoir', 'route-victoire']"
-67,68,Mackogneur,Évolution de Machopeur par échange,[]
-68,69,Chétiflor,"Chenal 230, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229","['route-229', 'chenal-230']"
-69,70,Boustiflor,"Chenal 230, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 224, Route 229Évolution de Chétiflor au niveau 21","['route-224', 'route-229', 'chenal-230']"
-70,71,Empiflor,Évolution de Boustiflor en utilisant une Pierre Plante,[]
-71,72,Tentacool,"Chenal 220, Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Parc Éolien, Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Verchamps, Île de Fer","['route-205', 'route-213', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'forge-fuego', 'ile-de-fer', 'parc-eolien']"
-72,73,Tentacruel,"Chenal 220, Chenal 223, Chenal 226, Chenal 230, Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Ligue Pokémon, Parc Éolien, Rivamar, Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Route 224, Verchamps, Île de FerÉvolution de Tentacool au niveau 30","['route-205', 'route-213', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'chenal-223', 'route-224', 'chenal-226', 'chenal-230', 'forge-fuego', 'ile-de-fer', 'parc-eolien']"
-73,74,Racaillou,"Chemin Rocheux, Entrée de Charbourg, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables), Grotte des Égarés, Mine de Charbourg, Mont Abrupt, Mont Couronné, Rive Lac Courage, Route 206, Route 207, Route 210, Route 211, Route 214, Route 215, Tunnel du Ruinophile, Île de Fer","['route-206', 'route-207', 'route-210', 'route-211', 'route-214', 'route-215', 'chemin-rocheux', 'entree-charbourg', 'grotte-des-egares', 'grotte-ruinophile', 'ile-de-fer', 'mine-charbourg', 'mont-abrupt', 'mont-couronne', 'rive-lac-courage']"
-74,75,Gravalanch,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Mont Couronné, Rive Lac Courage, Route 211, Route 214, Route 216, Route 227, Route Victoire, Temple de Frimapic, Île de FerÉvolution de Racaillou au niveau 25","['route-211', 'route-214', 'route-216', 'route-227', 'ile-de-fer', 'mont-abrupt', 'mont-couronne', 'rive-lac-courage', 'route-victoire', 'temple-frimapic']"
-75,76,Grolem,Évolution de Gravalanch par échange,[]
-76,77,Ponyta,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Route 206, Route 210, Route 211, Route 214, Route 215","['route-206', 'route-210', 'route-211', 'route-214', 'route-215']"
-77,78,Galopa,Évolution de Ponyta au niveau 40,[]
-78,79,Ramoloss,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 205",['route-205']
-79,80,Flagadoss,Évolution de Ramoloss au niveau 37,[]
-80,81,Magnéti,"Forge Fuego, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)",['forge-fuego']
-81,82,Magnéton,Évolution de Magnéti au niveau 30,[]
-82,83,Canarticho,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 221",['route-221']
-83,84,Doduo,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 201",['route-201']
-84,85,Dodrio,Évolution de Doduo au niveau 31,[]
-85,86,Otaria,"Diamant : Chenal 226, Chenal 230, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)","['chenal-226', 'chenal-230']"
-86,87,Lamantine,"Diamant : Chenal 226, Chenal 230, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Évolution de Otaria au niveau 34","['chenal-226', 'chenal-230']"
-87,88,Tadmorv,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Route 212",['route-212']
-88,89,Grotadmorv,Évolution de Tadmorv au niveau 38,[]
-89,90,Kokiyas,"Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Parc Éolien, Route 205","['route-205', 'forge-fuego', 'parc-eolien']"
-90,91,Crustabri,Évolution de Kokiyas en utilisant une Pierre Eau,[]
-91,92,Fantominus,"Grands Souterrains (Biome Cristaux), Route 209, Tour Perdue, Vieux Château","['route-209', 'tour-perdue', 'vieux-chateau']"
-92,93,Spectrum,"Frimapic, Grotte du RetourÉvolution de Fantominus au niveau 25",['grotte-retour']
-93,94,Ectoplasma,Évolution de Spectrum par échange,[]
-94,95,Onix,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mine de Charbourg, Mont Abrupt, Route Victoire, Temple de Frimapic, Île de Fer","['ile-de-fer', 'mine-charbourg', 'mont-abrupt', 'route-victoire', 'temple-frimapic']"
-95,96,Soporifik,"Grands Souterrains (Biome Cristaux), Route 215",['route-215']
-96,97,Hypnomade,Évolution de Soporifik au niveau 26,[]
-97,98,Krabby,"Chenal 226, Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte)",['chenal-226']
-98,99,Krabboss,Évolution de Krabby au niveau 28,[]
-99,100,Voltorbe,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Route 218",['route-218']
-100,101,Électrode,Évolution de Voltorbe au niveau 30,[]
-101,102,Noeunoeuf,Grand Marais,['grand-marais']
-102,103,Noadkoko,Évolution de Noeunoeuf en utilisant une Pierre Plante,[]
-103,104,Osselait,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Sables), Route 203",['route-203']
-104,105,Ossatueur,Évolution de Osselait au niveau 28,[]
-105,106,Kicklee,"Évolution de Debugant au niveau 20, si Attaque > Défense",[]
-106,107,Tygnon,"Évolution de Debugant au niveau 20, si Attaque < Défense",[]
-107,108,Excelangue,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Lac Courage",['lac-courage']
-108,109,Smogo,Reproduction,[]
-109,110,Smogogo,"Grands Souterrains (Biome Marais), Mont Abrupt, Route 227Évolution de Smogo au niveau 35","['route-227', 'mont-abrupt']"
-110,111,Rhinocorne,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Route 227","['route-227', 'mont-abrupt']"
-111,112,Rhinoféros,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Route 227, Route 228Évolution de Rhinocorne au niveau 42","['route-227', 'route-228', 'mont-abrupt']"
-112,113,Leveinard,"Jardin Trophée, Route 209, Route 210Évolution de Ptiravi par montée de niveau avec une Pierre Ovale tenue le jour","['route-209', 'route-210', 'manoir-pokemon']"
-113,114,Saquedeneu,Grands Souterrains (Biome Marais),[]
-114,115,Kangourex,Grand Marais,['grand-marais']
-115,116,Hypotrempe,"Chenal 226, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",['chenal-226']
-116,117,Hypocéan,Chenal 226Évolution de Hypotrempe au niveau 32,['chenal-226']
-117,118,Poissirène,"Aire de Détente, Bonaugure, Lac Courage, Lac Savoir, Lac Vérité, Route 203, Route 204, Route 209, Route 212, Route 214, Source des Adieux","['route-203', 'route-204', 'route-209', 'route-212', 'route-214', 'lac-courage', 'lac-savoir', 'lac-verite', 'source-des-adieux']"
-118,119,Poissoroy,"Aire de Détente, Bonaugure, Lac Courage, Lac Savoir, Lac Vérité, Route 203, Route 204, Route 209, Route 212, Route 214, Source des AdieuxÉvolution de Poissirène au niveau 33","['route-203', 'route-204', 'route-209', 'route-212', 'route-214', 'lac-courage', 'lac-savoir', 'lac-verite', 'source-des-adieux']"
-119,120,Stari,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Rivamar",[]
-120,121,Staross,Évolution de Stari en utilisant une Pierre Eau,[]
-121,122,M. Mime,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Route 218DE, Route 222DEÉvolution de Mime Jr. par montée de niveau en ayant appris Copie","['route-218', 'route-222']"
-122,123,Insécateur,"Diamant : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 229",['route-229']
-123,124,Lippoutou,Évolution de Lippouti au niveau 30,[]
-124,125,Élektek,Évolution de Élekid au niveau 30,[]
-125,126,Magmar,Évolution de Magby au niveau 30,[]
-126,127,Scarabrute,"Perle : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 229",['route-229']
-127,128,Tauros,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 209, Route 210","['route-209', 'route-210']"
-128,129,Magicarpe,"Aire de Détente, Bonaugure, Chemin Rocheux, Chenal 220, Chenal 223, Chenal 226, Chenal 230, Célestia, Entrée de Charbourg, Forge Fuego, Grand Marais, Joliberges, Lac Courage, Lac Savoir, Lac Vérité, Ligue Pokémon, Mont Couronné, Parc Éolien, Rivamar, Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 213, Route 214, Route 218, Route 219, Route 221, Route 222, Route 224, Route 225, Route 227, Route 228, Route 229, Route Victoire, Source des Adieux, Verchamps, Vestigion, Île de Fer","['route-203', 'route-204', 'route-205', 'route-208', 'route-209', 'route-210', 'route-212', 'route-213', 'route-214', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'chenal-223', 'route-224', 'route-225', 'chenal-226', 'route-227', 'route-228', 'route-229', 'chenal-230', 'chemin-rocheux', 'entree-charbourg', 'forge-fuego', 'grand-marais', 'ile-de-fer', 'lac-courage', 'lac-savoir', 'lac-verite', 'mont-couronne', 'parc-eolien', 'route-victoire', 'source-des-adieux']"
-129,130,Léviator,"Aire de Détente, Bonaugure, Chemin Rocheux, Chenal 220, Chenal 223, Chenal 226, Chenal 230, Célestia, Entrée de Charbourg, Forge Fuego, Grand Marais, Joliberges, Lac Courage, Lac Savoir, Lac Vérité, Ligue Pokémon, Mont Couronné, Parc Éolien, Rivamar, Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 213, Route 214, Route 218, Route 219, Route 221, Route 222, Route 224, Route 225, Route 227, Route 228, Route 229, Route Victoire, Source des Adieux, Verchamps, Vestigion, Île de FerÉvolution de Magicarpe au niveau 20","['route-203', 'route-204', 'route-205', 'route-208', 'route-209', 'route-210', 'route-212', 'route-213', 'route-214', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'chenal-223', 'route-224', 'route-225', 'chenal-226', 'route-227', 'route-228', 'route-229', 'chenal-230', 'chemin-rocheux', 'entree-charbourg', 'forge-fuego', 'grand-marais', 'ile-de-fer', 'lac-courage', 'lac-savoir', 'lac-verite', 'mont-couronne', 'parc-eolien', 'route-victoire', 'source-des-adieux']"
-130,131,Lokhlass,Route Victoire,['route-victoire']
-131,132,Métamorph,"Grands Souterrains (Biome Cristaux), Route 218",['route-218']
-132,133,Évoli,"Jardin Trophée, Unionpolis",['manoir-pokemon']
-133,134,Aquali,Évolution de Évoli en utilisant une Pierre Eau,[]
-134,135,Voltali,Évolution de Évoli en utilisant une Pierre Foudre,[]
-135,136,Pyroli,Évolution de Évoli en utilisant une Pierre Feu,[]
-136,137,Porygon,Jardin Trophée,['manoir-pokemon']
-137,138,Amonita,Charbourg,[]
-138,139,Amonistar,Évolution de Amonita au niveau 40,[]
-139,140,Kabuto,Charbourg,[]
-140,141,Kabutops,Évolution de Kabuto au niveau 40,[]
-141,142,Ptéra,Charbourg,[]
-142,143,Ronflex,Évolution de Goinfrex par montée de niveau avec beaucoup d'amitié,[]
-143,144,Artikodin,Perle : Parc Rosa Rugosa,[]
-144,145,Électhor,Perle : Parc Rosa Rugosa,[]
-145,146,Sulfura,Perle : Parc Rosa Rugosa,[]
-146,147,Minidraco,"Grands Souterrains (Biome Eaux), Mont Couronné",['mont-couronne']
-147,148,Draco,Mont CouronnéÉvolution de Minidraco au niveau 30,['mont-couronne']
-148,149,Dracolosse,Évolution de Draco au niveau 55,[]
-149,150,Mewtwo,Parc Rosa Rugosa,[]
-150,151,Mew,Floraville,[]
-151,152,Germignon,"Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[]
-152,153,Macronium,Évolution de Germignon au niveau 16,[]
-153,154,Méganium,Évolution de Macronium au niveau 32,[]
-154,155,Héricendre,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[]
-155,156,Feurisson,Évolution de Héricendre au niveau 14,[]
-156,157,Typhlosion,Évolution de Feurisson au niveau 36,[]
-157,158,Kaiminus,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",[]
-158,159,Crocrodil,Évolution de Kaiminus au niveau 18,[]
-159,160,Aligatueur,Évolution de Crocrodil au niveau 30,[]
-160,161,Fouinette,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables), Route 202",['route-202']
-161,162,Fouinar,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables)Évolution de Fouinette au niveau 15",[]
-162,163,Hoothoot,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 210, Route 211","['route-210', 'route-211', 'grand-marais']"
-163,164,Noarfang,"Grand Marais, Lac Courage, Lac Savoir, Mont Couronné, Rive Lac Savoir, Route 210, Route 211, Route 216, Route 217, Source des AdieuxÉvolution de Hoothoot au niveau 20","['route-210', 'route-211', 'route-216', 'route-217', 'grand-marais', 'lac-courage', 'lac-savoir', 'mont-couronne', 'rive-lac-savoir', 'source-des-adieux']"
-164,165,Coxy,Reproduction,[]
-165,166,Coxyclaque,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229Évolution de Coxy au niveau 18",['route-229']
-166,167,Mimigal,Reproduction,[]
-167,168,Migalos,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Route 229Évolution de Mimigal au niveau 22",['route-229']
-168,169,Nostenfer,Évolution de Nosferalto par montée de niveau avec beaucoup d'amitié,[]
-169,170,Loupio,"Chenal 220, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier)",['chenal-220']
-170,171,Lanturn,"Chenal 220, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier)Évolution de Loupio au niveau 27",['chenal-220']
-171,172,Pichu,Jardin TrophéeReproduction de Pikachu ou Raichu,['manoir-pokemon']
-172,173,Mélo,"Jardin Trophée, Mont CouronnéReproduction de Mélofée ou Mélodelfe","['manoir-pokemon', 'mont-couronne']"
-173,174,Toudoudou,Jardin TrophéeReproduction de Rondoudou ou Grodoudou,['manoir-pokemon']
-174,175,Togepi,"Chenal 230, Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Eaux)Reproduction de Togetic ou Togekiss",['chenal-230']
-175,176,Togetic,Évolution de Togepi par montée de niveau avec beaucoup d'amitié,[]
-176,177,Natu,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Route 224",['route-224']
-177,178,Xatu,Évolution de Natu au niveau 25,[]
-178,179,Wattouat,"Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Parc Éolien",['parc-eolien']
-179,180,Lainergie,"Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Route 222Évolution de Wattouat au niveau 15",['route-222']
-180,181,Pharamp,Évolution de Lainergie au niveau 30,[]
-181,182,Joliflor,Évolution de Ortide en utilisant une Pierre Soleil,[]
-182,183,Marill,"Grand Marais, Jardin TrophéeÉvolution de Azurill par montée de niveau avec beaucoup d'amitié","['grand-marais', 'manoir-pokemon']"
-183,184,Azumarill,Évolution de Marill au niveau 18,[]
-184,185,Simularbre,"Perle : Route 214, Route 221Évolution de Manzaï par montée de niveau en ayant appris l'attaque Copie","['route-214', 'route-221']"
-185,186,Tarpaud,Évolution de Têtarte par échange avec Roche Royale tenue,[]
-186,187,Granivol,"Forge FuegoPS, Grands Souterrains (Biome Prairie), Route 205","['route-205', 'forge-fuego']"
-187,188,Floravol,"Forge FuegoPS, Grands Souterrains (Biome Prairie), Route 205DEÉvolution de Granivol au niveau 18","['route-205', 'forge-fuego']"
-188,189,Cotovol,Évolution de Floravol au niveau 27,[]
-189,190,Capumain,"Arbres à Miel, Grands Souterrains (Biome Grotte)",[]
-190,191,Tournegrin,"Grands Souterrains (Biome Prairie), Route 204",['route-204']
-191,192,Héliatronc,Évolution de Tournegrin en utilisant une Pierre Soleil,[]
-192,193,Yanma,Grand Marais,['grand-marais']
-193,194,Axoloto,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Route 212","['route-212', 'grand-marais']"
-194,195,Maraiste,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Route 212Évolution de Axoloto au niveau 20","['route-212', 'grand-marais']"
-195,196,Mentali,"Évolution de Évoli par montée de niveau avec beaucoup d'amitié, le jour",[]
-196,197,Noctali,"Évolution de Évoli par montée de niveau avec beaucoup d'amitié, la nuit",[]
-197,198,Cornèbre,"Diamant : Forêt de Vestigion, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Tour Perdue","['foret-vestigion', 'tour-perdue']"
-198,199,Roigada,Évolution de Ramoloss par échange avec Roche Royale tenue,[]
-199,200,Feuforêve,"Perle : Forêt de Vestigion, Grands Souterrains (Biome Cristaux), Tour Perdue","['foret-vestigion', 'tour-perdue']"
-200,201,Zarbi,Ruines de Bonville,[]
-201,202,Qulbutoké,"Grands Souterrains (Biome Cristaux), Lac Courage, Lac Savoir, Lac VéritéÉvolution de Okéoké au niveau 15","['lac-courage', 'lac-savoir', 'lac-verite']"
-202,203,Girafarig,"Grands Souterrains (Biome Cristaux), Rive Lac Courage, Route 214","['route-214', 'rive-lac-courage']"
-203,204,Pomdepik,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",[]
-204,205,Foretress,Évolution de Pomdepik au niveau 31,[]
-205,206,Insolourdo,Route 208,['route-208']
-206,207,Scorplane,"Diamant : Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables)",[]
-207,208,Steelix,"Route Victoire, Temple de Frimapic, Île de FerÉvolution de Onix par échange avec Peau Métal tenue","['ile-de-fer', 'route-victoire', 'temple-frimapic']"
-208,209,Snubbull,"Grands Souterrains (Biome Cristaux), Route 209",['route-209']
-209,210,Granbull,Évolution de Snubbull au niveau 23,[]
-210,211,Qwilfish,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Île de Fer",['ile-de-fer']
-211,212,Cizayox,Évolution de Insécateur par échange avec Peau Métal tenue,[]
-212,213,Caratroc,"Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables)",[]
-213,214,Scarhino,Arbres à Miel,[]
-214,215,Farfuret,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Lac Savoir, Rive Lac Savoir, Route 216, Route 217, Temple de Frimapic","['route-216', 'route-217', 'lac-savoir', 'rive-lac-savoir', 'temple-frimapic']"
-215,216,Teddiursa,"Perle : Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables)",[]
-216,217,Ursaring,Évolution de Teddiursa au niveau 30,[]
-217,218,Limagma,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Mont Abrupt",['mont-abrupt']
-218,219,Volcaropod,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Mont AbruptÉvolution de Limagma au niveau 38",['mont-abrupt']
-219,220,Marcacrin,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Route 217",['route-217']
-220,221,Cochignon,Évolution de Marcacrin au niveau 33,[]
-221,222,Corayon,"Chenal 230, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",['chenal-230']
-222,223,Rémoraid,"Chenal 223, Chenal 230, Ligue Pokémon, Rivamar, Route 213, Route 222, Route 224, Verchamps","['route-213', 'route-222', 'chenal-223', 'route-224', 'chenal-230']"
-223,224,Octillery,"Chenal 223, Chenal 230, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Ligue Pokémon, Rivamar, Route 213, Route 222, Route 224, VerchampsÉvolution de Rémoraid au niveau 25","['route-213', 'route-222', 'chenal-223', 'route-224', 'chenal-230']"
-224,225,Cadoizo,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Route 216",['route-216']
-225,226,Démanta,Évolution de Babimanta par montée de niveau avec Rémoraid dans l'équipe,[]
-226,227,Airmure,"Mont Abrupt, Route 227","['route-227', 'mont-abrupt']"
-227,228,Malosse,Reproduction,[]
-228,229,Démolosse,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Route 214PS, Route 215PSÉvolution de Malosse au niveau 24","['route-214', 'route-215']"
-229,230,Hyporoi,Évolution de Hypocéan par échange avec Écaille Draco tenue,[]
-230,231,Phanpy,"Grands Souterrains (Biome Sables), Route 207",['route-207']
-231,232,Donphan,Évolution de Phanpy au niveau 25,[]
-232,233,Porygon2,Évolution de Porygon par échange avec Améliorator tenu,[]
-233,234,Cerfrousse,Perle : Route 207,['route-207']
-234,235,Queulorior,Route 212,['route-212']
-235,236,Debugant,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 208, Route 211","['route-208', 'route-211']"
-236,237,Kapoera,"Évolution de Debugant au niveau 20, si Défense = Attaque",[]
-237,238,Lippouti,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Lac SavoirReproduction de Lippoutou",['lac-savoir']
-238,239,Élekid,"Diamant : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Reproduction de Élektek ou Élekable",[]
-239,240,Magby,"Perle : Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)Reproduction de Magmar ou Maganon",[]
-240,241,Écrémeuh,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 209, Route 210","['route-209', 'route-210']"
-241,242,Leuphorie,Évolution de Leveinard par montée de niveau avec beaucoup d'amitié,[]
-242,243,Raikou,Diamant : Parc Rosa Rugosa,[]
-243,244,Entei,Diamant : Parc Rosa Rugosa,[]
-244,245,Suicune,Diamant : Parc Rosa Rugosa,[]
-245,246,Embrylex,"Diamant : Grands Souterrains (Biome Sables), Route 207",['route-207']
-246,247,Ymphect,Diamant : Grands Souterrains (Biome Sables)Évolution de Embrylex au niveau 30,[]
-247,248,Tyranocif,Évolution de Ymphect au niveau 55,[]
-248,249,Lugia,Perle : Parc Rosa Rugosa,[]
-249,250,Ho-Oh,Diamant : Parc Rosa Rugosa,[]
-250,251,Celebi,-,[]
-251,252,Arcko,"Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[]
-252,253,Massko,Évolution de Arcko au niveau 16,[]
-253,254,Jungko,Évolution de Massko au niveau 36,[]
-254,255,Poussifeu,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[]
-255,256,Galifeu,Évolution de Poussifeu au niveau 16,[]
-256,257,Braségali,Évolution de Galifeu au niveau 36,[]
-257,258,Gobou,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",[]
-258,259,Flobio,Évolution de Gobou au niveau 16,[]
-259,260,Laggron,Évolution de Flobio au niveau 36,[]
-260,261,Medhyèna,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier)",[]
-261,262,Grahyèna,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Route 214DE, Route 215DEÉvolution de Medhyèna au niveau 18","['route-214', 'route-215']"
-262,263,Zigzaton,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Sables), Route 202",['route-202']
-263,264,Linéon,Évolution de Zigzaton au niveau 20,[]
-264,265,Chenipotte,"Arbres à Miel, Forêt de Vestigion, Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",['foret-vestigion']
-265,266,Armulys,"Diamant : Arbres à Miel, Forêt de Vestigion, Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Évolution de Chenipotte au niveau 7",['foret-vestigion']
-266,267,Charmillon,"Chenal 230DE, Forêt de VestigionDE, Route 224Évolution de Armulys au niveau 10","['route-224', 'chenal-230', 'foret-vestigion']"
-267,268,Blindalys,"Perle : Arbres à Miel, Forêt de Vestigion, Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Évolution de Chenipotte au niveau 7",['foret-vestigion']
-268,269,Papinox,"Perle : Chenal 230, Forêt de VestigionÉvolution de Blindalys au niveau 10","['chenal-230', 'foret-vestigion']"
-269,270,Nénupiot,"Perle : Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[]
-270,271,Lombre,"Perle : Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Évolution de Nénupiot au niveau 14",[]
-271,272,Ludicolo,Évolution de Lombre en utilisant une Pierre Eau,[]
-272,273,Grainipiot,"Diamant : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[]
-273,274,Pifeuil,"Diamant : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Évolution de Grainipiot au niveau 14",[]
-274,275,Tengalice,Évolution de Pifeuil en utilisant une Pierre Plante,[]
-275,276,Nirondelle,Reproduction,[]
-276,277,Hélédelle,Route 213Évolution de Nirondelle au niveau 22,['route-213']
-277,278,Goélise,"Chenal 220, Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Parc Éolien, Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Route 229, Verchamps, Île de Fer","['route-205', 'route-213', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'route-229', 'forge-fuego', 'ile-de-fer', 'parc-eolien']"
-278,279,Bekipan,"Chenal 220, Chenal 223, Chenal 226, Chenal 230, Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Ligue Pokémon, Parc Éolien, Rivamar, Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Route 224, Route 229, Verchamps, Île de FerÉvolution de Goélise au niveau 25","['route-205', 'route-213', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'chenal-223', 'route-224', 'chenal-226', 'route-229', 'chenal-230', 'forge-fuego', 'ile-de-fer', 'parc-eolien']"
-279,280,Tarsal,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Eaux), Route 203, Route 204","['route-203', 'route-204']"
-280,281,Kirlia,"Grands Souterrains (Biome Cristaux), Route 203, Route 204Évolution de Tarsal au niveau 20",['route-203']
-281,282,Gardevoir,Évolution de Kirlia au niveau 30,[]
-282,283,Arakdo,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Lac Vérité",['lac-verite']
-283,284,Maskadra,Évolution de Arakdo au niveau 22,[]
-284,285,Balignon,Grand Marais,['grand-marais']
-285,286,Chapignon,Évolution de Balignon au niveau 23,[]
-286,287,Parecool,Forêt de Vestigion,['foret-vestigion']
-287,288,Vigoroth,Évolution de Parecool au niveau 18,[]
-288,289,Monaflèmit,Évolution de Vigoroth au niveau 36,[]
-289,290,Ningale,"Forêt de Vestigion, Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",['foret-vestigion']
-290,291,Ninjask,Évolution de Ningale au niveau 20,[]
-291,292,Munja,Évolution de Ningale au niveau 20 avec un emplacement libre dans l'équipe et une Poké Ball dans le sac,[]
-292,293,Chuchmur,Reproduction,[]
-293,294,Ramboum,Mont CouronnéÉvolution de Chuchmur au niveau 20,['mont-couronne']
-294,295,Brouhabam,Évolution de Ramboum au niveau 40,[]
-295,296,Makuhita,Route 225,['route-225']
-296,297,Hariyama,Évolution de Makuhita au niveau 24,[]
-297,298,Azurill,"Grand Marais, Jardin TrophéeReproduction de Marill ou Azumarill avec Encens Mer tenu","['grand-marais', 'manoir-pokemon']"
-298,299,Tarinor,Route 206,['route-206']
-299,300,Skitty,"Grands Souterrains (Biome Grotte), Route 222",['route-222']
-300,301,Delcatty,Évolution de Skitty en utilisant une Pierre Lune,[]
-301,302,Ténéfix,Perle : Grands Souterrains (Biome Cristaux),[]
-302,303,Mysdibule,Diamant : Grands Souterrains (Biome Cristaux),[]
-303,304,Galekid,"Forge FuegoDE, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables)",['forge-fuego']
-304,305,Galegon,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables)Évolution de Galekid au niveau 32",[]
-305,306,Galeking,Évolution de Galegon au niveau 42,[]
-306,307,Méditikka,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Neige), Mont Couronné, Rive Lac Savoir, Route 208, Route 210, Route 211, Route 216, Route 217","['route-208', 'route-210', 'route-211', 'route-216', 'route-217', 'mont-couronne', 'rive-lac-savoir']"
-307,308,Charmina,"Mont Couronné, Rive Lac Savoir, Route 217, Route VictoireÉvolution de Méditikka au niveau 37","['route-217', 'mont-couronne', 'rive-lac-savoir', 'route-victoire']"
-308,309,Dynavolt,Parc Éolien,['parc-eolien']
-309,310,Élecsprint,Évolution de Dynavolt au niveau 26,[]
-310,311,Posipi,Jardin Trophée,['manoir-pokemon']
-311,312,Négapi,Jardin Trophée,['manoir-pokemon']
-312,313,Muciole,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie), Route 229",['route-229']
-313,314,Lumivole,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie), Route 229",['route-229']
-314,315,Rosélia,"Grand Marais, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Jardin Trophée, Route 212, Route 221, Route 224, Route 225, Route 229DEÉvolution de Rozbouton par montée de niveau avec beaucoup d'amitié, le jour","['route-212', 'route-221', 'route-224', 'route-225', 'route-229', 'grand-marais', 'manoir-pokemon']"
-315,316,Gloupti,Grand Marais,['grand-marais']
-316,317,Avaltout,Évolution de Gloupti au niveau 26,[]
-317,318,Carvanha,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",['grand-marais']
-318,319,Sharpedo,"Route 213, Route 222Évolution de Carvanha au niveau 30","['route-213', 'route-222']"
-319,320,Wailmer,"Chenal 223, Chenal 230","['chenal-223', 'chenal-230']"
-320,321,Wailord,"Chenal 223, Chenal 230Évolution de Wailmer au niveau 40","['chenal-223', 'chenal-230']"
-321,322,Chamallot,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Route 227","['route-227', 'mont-abrupt']"
-322,323,Camérupt,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Route 227Évolution de Chamallot au niveau 33","['route-227', 'mont-abrupt']"
-323,324,Chartor,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Mont Abrupt, Route 227","['route-227', 'mont-abrupt']"
-324,325,Spoink,Route 214,['route-214']
-325,326,Groret,Évolution de Spoink au niveau 32,[]
-326,327,Spinda,Route 227,['route-227']
-327,328,Kraknoix,"Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Route 228",['route-228']
-328,329,Vibraninf,"Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 228Évolution de Kraknoix au niveau 35",['route-228']
-329,330,Libégon,Évolution de Vibraninf au niveau 45,[]
-330,331,Cacnea,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 228",['route-228']
-331,332,Cacturne,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 228Évolution de Cacnea au niveau 32",['route-228']
-332,333,Tylton,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Route 211",['route-211']
-333,334,Altaria,Évolution de Tylton au niveau 35,[]
-334,335,Mangriff,"Diamant : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",[]
-335,336,Séviper,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",[]
-336,337,Séléroc,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie / Eaux)",[]
-337,338,Solaroc,"Diamant : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie / Eaux)",[]
-338,339,Barloche,"Chemin Rocheux, Célestia, Entrée de Charbourg, Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Mont Couronné, Route 205, Route 208, Route 210, Route 212, Route 227, Route 228, Vestigion","['route-205', 'route-208', 'route-210', 'route-212', 'route-227', 'route-228', 'chemin-rocheux', 'entree-charbourg', 'grand-marais', 'mont-couronne']"
-339,340,Barbicha,"Chemin Rocheux, Célestia, Entrée de Charbourg, Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Mont Couronné, Route 205, Route 208, Route 210, Route 212, Route 227, Route 228, VestigionÉvolution de Barloche au niveau 30","['route-205', 'route-208', 'route-210', 'route-212', 'route-227', 'route-228', 'chemin-rocheux', 'entree-charbourg', 'grand-marais', 'mont-couronne']"
-340,341,Écrapince,"Célestia, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux)",[]
-341,342,Colhomard,"Célestia, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux)Évolution de Écrapince au niveau 30",[]
-342,343,Balbuto,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Sables), Route 206",['route-206']
-343,344,Kaorine,Évolution de Balbuto au niveau 36,[]
-344,345,Lilia,Charbourg,[]
-345,346,Vacilys,Évolution de Lilia au niveau 40,[]
-346,347,Anorith,Charbourg,[]
-347,348,Armaldo,Évolution de Anorith au niveau 40,[]
-348,349,Barpau,Mont Couronné,['mont-couronne']
-349,350,Milobellus,Évolution de Barpau avec la Beauté à 170 puis en montant un niveau,[]
-350,351,Morphéo,Jardin Trophée,['manoir-pokemon']
-351,352,Kecleon,"Diamant : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 210",['route-210']
-352,353,Polichombr,Reproduction,[]
-353,354,Branette,"Chenal 226, Grands Souterrains (Biome Cristaux), Mont Abrupt, Route 225, Route 227Évolution de Polichombr au niveau 37","['route-225', 'chenal-226', 'route-227', 'mont-abrupt']"
-354,355,Skelénox,"Grands Souterrains (Biome Cristaux), Route 224",['route-224']
-355,356,Téraclope,"Grands Souterrains (Biome Cristaux), Route 224Évolution de Skelénox au niveau 37",['route-224']
-356,357,Tropius,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",[]
-357,358,Éoko,"Mont Couronné, Source des AdieuxÉvolution de Korillon par montée de niveau avec beaucoup d'amitié, la nuit","['mont-couronne', 'source-des-adieux']"
-358,359,Absol,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 213",['route-213']
-359,360,Okéoké,Reproduction de Qulbutoké avec Encens Doux tenu,[]
-360,361,Stalgamin,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Rive Lac Savoir, Route 216, Route 217","['route-216', 'route-217', 'rive-lac-savoir']"
-361,362,Oniglali,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Évolution de Stalgamin au niveau 42",[]
-362,363,Obalie,"Perle : Chenal 226, Chenal 230, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)","['chenal-226', 'chenal-230']"
-363,364,Phogleur,"Perle : Chenal 226, Chenal 230, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Évolution de Obalie au niveau 32","['chenal-226', 'chenal-230']"
-364,365,Kaimorse,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Évolution de Phogleur au niveau 44",[]
-365,366,Coquiperl,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Route 219, Route 221","['route-219', 'route-221']"
-366,367,Serpang,Évolution de Coquiperl par échange avec Dent Océan tenue,[]
-367,368,Rosabyss,Évolution de Coquiperl par échange avec Écaille Océan tenue,[]
-368,369,Relicanth,Chenal 226,['chenal-226']
-369,370,Lovdisc,"Ligue Pokémon, Route 224",['route-224']
-370,371,Draby,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Route 210",['route-210']
-371,372,Drackhaus,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte)Évolution de Draby au niveau 30",[]
-372,373,Drattak,Évolution de Drackhaus au niveau 50,[]
-373,374,Terhal,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables), Route 228",['route-228']
-374,375,Métang,Évolution de Terhal au niveau 20,[]
-375,376,Métalosse,Évolution de Métang au niveau 45,[]
-376,377,Regirock,Parc Rosa Rugosa,[]
-377,378,Regice,Parc Rosa Rugosa,[]
-378,379,Registeel,Parc Rosa Rugosa,[]
-379,380,Latias,Parc Rosa Rugosa,[]
-380,381,Latios,Parc Rosa Rugosa,[]
-381,382,Kyogre,Parc Rosa Rugosa,[]
-382,383,Groudon,Parc Rosa Rugosa,[]
-383,384,Rayquaza,Parc Rosa Rugosa,[]
-384,385,Jirachi,Floraville,[]
-385,386,Deoxys,-,[]
-386,387,Tortipouss,"Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Lac Vérité",[]
-387,388,Boskara,Évolution de Tortipouss au niveau 18,[]
-388,389,Torterra,Évolution de Boskara au niveau 32,[]
-389,390,Ouisticram,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Lac Vérité",[]
-390,391,Chimpenfeu,Évolution de Ouisticram au niveau 14,[]
-391,392,Simiabraz,Évolution de Chimpenfeu au niveau 36,[]
-392,393,Tiplouf,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Lac Vérité",[]
-393,394,Prinplouf,Évolution de Tiplouf au niveau 16,[]
-394,395,Pingoléon,Évolution de Prinplouf au niveau 36,[]
-395,396,Étourmi,"Grand Marais, Lac Vérité, Route 201, Route 202, Route 203, Route 204, Route 209, Route 212","['route-201', 'route-202', 'route-203', 'route-204', 'route-209', 'route-212', 'grand-marais', 'lac-verite']"
-396,397,Étourvol,"Grand Marais, Jardin Trophée, Lac Courage, Rive Lac Courage, Route 209, Route 212, Source des AdieuxÉvolution de Étourmi au niveau 14","['route-209', 'route-212', 'grand-marais', 'lac-courage', 'manoir-pokemon', 'rive-lac-courage', 'source-des-adieux']"
-397,398,Étouraptor,Évolution de Étourvol au niveau 34,[]
-398,399,Keunotor,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Lac Vérité, Parc Éolien, Route 201, Route 202, Route 203, Route 204, Route 205, Route 208, Route 211","['route-201', 'route-202', 'route-203', 'route-204', 'route-205', 'route-208', 'route-211', 'grand-marais', 'lac-verite', 'parc-eolien']"
-399,400,Castorno,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Lac Courage, Lac Savoir, Rive Lac Courage, Route 208, Route 209, Route 210, Route 212, Source des AdieuxÉvolution de Keunotor au niveau 15","['route-208', 'route-209', 'route-210', 'route-212', 'grand-marais', 'lac-courage', 'lac-savoir', 'rive-lac-courage', 'source-des-adieux']"
-400,401,Crikzik,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 202, Route 203, Route 204, Route 206, Route 207","['route-202', 'route-203', 'route-204', 'route-206', 'route-207']"
-401,402,Mélokrik,"Jardin Trophée, Rive Lac Courage, Route 206, Route 210, Route 212, Route 214, Route 215Évolution de Crikzik au niveau 10","['route-206', 'route-210', 'route-212', 'route-214', 'route-215', 'manoir-pokemon', 'rive-lac-courage']"
-402,403,Lixy,"Forge Fuego, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Route 202, Route 203, Route 204","['route-202', 'route-203', 'route-204', 'forge-fuego']"
-403,404,Luxio,"Forge Fuego, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie)Évolution de Lixy au niveau 15",['forge-fuego']
-404,405,Luxray,Évolution de Luxio au niveau 30,[]
-405,406,Rozbouton,"Forêt de Vestigion, Grand Marais, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 204, Route 212Reproduction de Rosélia ou Roserade avec Encens Fleur tenu","['route-204', 'route-212', 'foret-vestigion', 'grand-marais']"
-406,407,Roserade,Évolution de Rosélia en utilisant une Pierre Éclat,[]
-407,408,Kranidos,"Charbourg (via Fossile Crâne, exclusif à Diamant)",[]
-408,409,Charkos,Évolution de Kranidos au niveau 30,[]
-409,410,Dinoclier,"Charbourg (via Fossile Armure, exclusif à Perle)",[]
-410,411,Bastiodon,Évolution de Dinoclier au niveau 30,[]
-411,412,Cheniti,Arbres à Miel,[]
-412,413,Cheniselle,Évolution de Cheniti femelle au niveau 20,[]
-413,414,Papilord,Évolution de Cheniti mâle au niveau 20,[]
-414,415,Apitrini,"Arbres à Miel, Grands Souterrains (Biome Prairie)",[]
-415,416,Apireine,Évolution de Apitrini femelle au niveau 21,[]
-416,417,Pachirisu,"Forge Fuego, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Parc Éolien, Route 205","['route-205', 'forge-fuego', 'parc-eolien']"
-417,418,Mustébouée,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Parc Éolien, Route 205, Route 213, Route 224","['route-205', 'route-213', 'route-224', 'parc-eolien']"
-418,419,Mustéflott,"Chenal 230, Forge Fuego, Route 213, Route 218, Route 221, Route 222, Route 224, Route VictoireÉvolution de Mustébouée au niveau 26","['route-213', 'route-218', 'route-221', 'route-222', 'route-224', 'chenal-230', 'forge-fuego', 'route-victoire']"
-419,420,Ceribou,"Arbres à Miel, Grands Souterrains (Biome Prairie)",[]
-420,421,Ceriflor,Évolution de Ceribou au niveau 25,[]
-421,422,Sancoki,"Occident : Forge Fuego, Grands Souterrains (Biome Eaux), Parc Éolien, Route 205, Route 218, Route 221Orient : Route 213, Route 224","['route-205', 'route-213', 'route-218', 'route-221', 'route-224', 'forge-fuego', 'parc-eolien']"
-422,423,Tritosor,"Occident : Forge Fuego, Grands Souterrains (Biome Eaux), Route 218, Route 221Orient : Chenal 230, Route 222, Route 224Évolution de Sancoki au niveau 30","['route-218', 'route-221', 'route-222', 'route-224', 'chenal-230', 'forge-fuego']"
-423,424,Capidextre,Évolution de Capumain par montée de niveau en ayant appris Coup Double,[]
-424,425,Baudrive,Parc Éolien,[]
-425,426,Grodrive,Évolution de Baudrive au niveau 28,[]
-426,427,Laporeille,"Forêt de Vestigion, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",['foret-vestigion']
-427,428,Lockpin,Évolution de Laporeille par montée de niveau avec beaucoup d'amitié,[]
-428,429,Magirêve,Évolution de Feuforêve en utilisant une Pierre Nuit,[]
-429,430,Corboss,Évolution de Cornèbre en utilisant une Pierre Nuit,[]
-430,431,Chaglam,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 218, Route 222","['route-218', 'route-222']"
-431,432,Chaffreux,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 222, Route 229Évolution de Chaglam au niveau 38","['route-222', 'route-229']"
-432,433,Korillon,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Lac Courage, Lac Savoir, Mont Couronné, Route 211Reproduction de Éoko avec Encens Pur tenu","['route-211', 'lac-courage', 'lac-savoir', 'mont-couronne']"
-433,434,Moufouette,"Diamant : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 206, Route 214, Route 221","['route-206', 'route-214', 'route-221']"
-434,435,Moufflair,"Diamant : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 221, Route 225Évolution de Moufouette au niveau 34","['route-221', 'route-225']"
-435,436,Archéomire,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Sables), Grotte du Retour, Grotte des Égarés, Mont Couronné, Route 206","['route-206', 'grotte-retour', 'grotte-des-egares', 'mont-couronne']"
-436,437,Archéodong,"Grotte du Retour, Mont CouronnéÉvolution de Archéomire au niveau 33","['grotte-retour', 'mont-couronne']"
-437,438,Manzaï,"Jardin Trophée, Route 209PS, Route 210PSReproduction de Simularbre avec Encens Roc tenu","['route-209', 'route-210', 'manoir-pokemon']"
-438,439,Mime Jr.,"Jardin Trophée, Route 209DE, Route 210DEReproduction de M. Mime avec Encens Bizarre tenu","['route-209', 'route-210', 'manoir-pokemon']"
-439,440,Ptiravi,"Jardin Trophée, UnionpolisReproduction de Leveinard ou Leuphorie avec Encens Veine tenu",['manoir-pokemon']
-440,441,Pijako,"Route 222, Route 224, Vestigion","['route-222', 'route-224']"
-441,442,Spiritomb,Route 209,[]
-442,443,Griknot,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grotte des Égarés",['grotte-des-egares']
-443,444,Carmache,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)Évolution de Griknot au niveau 24",[]
-444,445,Carchacrok,Évolution de Carmache au niveau 48,[]
-445,446,Goinfrex,"Arbres à Miel, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Reproduction de Ronflex avec Encens Plein tenu",[]
-446,447,Riolu,Île de FerReproduction de Lucario,[]
-447,448,Lucario,Évolution de Riolu par montée de niveau avec beaucoup d'amitié le jour,[]
-448,449,Hippopotas,"Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Tunnel du Ruinophile",['grotte-ruinophile']
-449,450,Hippodocus,Route 228Évolution de Hippopotas au niveau 34,['route-228']
-450,451,Rapion,"Grand Marais, Grands Souterrains (Biome Lave), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables)",['grand-marais']
-451,452,Drascore,Grand MaraisÉvolution de Rapion au niveau 40,['grand-marais']
-452,453,Cradopaud,"Grand Marais, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux)",['grand-marais']
-453,454,Coatox,Grand MaraisÉvolution de Cradopaud au niveau 37,['grand-marais']
-454,455,Vortente,Grand Marais,['grand-marais']
-455,456,Écayon,"Chenal 220, Forge Fuego, Joliberges, Parc Éolien, Route 205, Route 218, Route 219, Route 221, Île de Fer","['route-205', 'route-218', 'route-219', 'chenal-220', 'route-221', 'forge-fuego', 'ile-de-fer', 'parc-eolien']"
-456,457,Luminéon,"Chenal 220, Forge Fuego, Joliberges, Parc Éolien, Route 205, Route 218, Route 219, Route 221, Île de FerÉvolution de Écayon au niveau 31","['route-205', 'route-218', 'route-219', 'chenal-220', 'route-221', 'forge-fuego', 'ile-de-fer', 'parc-eolien']"
-457,458,Babimanta,"Chenal 223, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), RivamarReproduction de Démanta avec Encens Vague tenu",['chenal-223']
-458,459,Blizzi,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Mont Couronné, Rive Lac Savoir, Route 216, Route 217","['route-216', 'route-217', 'mont-couronne', 'rive-lac-savoir']"
-459,460,Blizzaroi,Mont CouronnéÉvolution de Blizzi au niveau 40,['mont-couronne']
-460,461,Dimoret,Évolution de Farfuret par montée de niveau avec Griffe Rasoir tenue la nuit,[]
-461,462,Magnézone,Évolution de Magnéton par montée de niveau au Mont Couronné ou en utilisant une Pierre Foudre,[]
-462,463,Coudlangue,Évolution de Excelangue par montée de niveau en ayant appris Roulade,[]
-463,464,Rhinastoc,Évolution de Rhinoféros par échange avec Protecteur tenu,[]
-464,465,Bouldeneu,Grands Souterrains (Biome Marais)Évolution de Saquedeneu par montée de niveau en ayant appris Pouvoir Antique,[]
-465,466,Élekable,Évolution de Élektek par échange avec Électriseur tenu,[]
-466,467,Maganon,Évolution de Magmar par échange avec Magmariseur tenu,[]
-467,468,Togekiss,Évolution de Togetic en utilisant une Pierre Éclat,[]
-468,469,Yanmega,Évolution de Yanma par montée de niveau en ayant appris Pouvoir Antique,[]
-469,470,Phyllali,Évolution de Évoli par montée de niveau près de la Roche Mousse dans la Forêt de Vestigion ou en utilisant une Pierre Plante,[]
-470,471,Givrali,Évolution de Évoli par montée de niveau près de la Roche Glace sur la Route 217,[]
-471,472,Scorvol,Évolution de Scorplane par montée de niveau avec Croc Rasoir tenu la nuit,[]
-472,473,Mammochon,Évolution de Cochignon par montée de niveau en ayant appris Pouvoir Antique,[]
-473,474,Porygon-Z,Évolution de Porygon2 par échange avec CD Douteux tenu,[]
-474,475,Gallame,Évolution de Kirlia mâle en utilisant une Pierre Aube,[]
-475,476,Tarinorme,Évolution de Tarinor par montée de niveau au Mont Couronné,[]
-476,477,Noctunoir,Évolution de Téraclope par échange avec Tissu Fauche tenu,[]
-477,478,Momartik,Évolution de Stalgamin femelle en utilisant une Pierre Aube,[]
-478,479,Motisma,Vieux Château,[]
-479,480,Créhelf,Lac Savoir,[]
-480,481,Créfollet,Lac Vérité,[]
-481,482,Créfadet,Lac Courage,[]
-482,483,Dialga,Diamant : Colonnes Lances,[]
-483,484,Palkia,Perle : Colonnes Lances,[]
-484,485,Heatran,Mont Abrupt,[]
-485,486,Regigigas,Temple de Frimapic,[]
-486,487,Giratina,Grotte du Retour,[]
-487,488,Cresselia,Île Pleine Lune,[]
-488,489,Phione,Reproduction de Manaphy ou Phione,[]
-489,490,Manaphy,Événement,[]
-490,491,Darkrai,-,[]
-491,492,Shaymin,-,[]
-492,493,Arceus,-,[]
+,id,name,localisation,places,id_regional
+0,1,Bulbizarre,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[],-1
+1,2,Herbizarre,Évolution de Bulbizarre au niveau 16,[],-1
+2,3,Florizarre,Évolution de Herbizarre au niveau 32,[],-1
+3,4,Salamèche,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[],-1
+4,5,Reptincel,Évolution de Salamèche au niveau 16,[],-1
+5,6,Dracaufeu,Évolution de Reptincel au niveau 36,[],-1
+6,7,Carapuce,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",[],-1
+7,8,Carabaffe,Évolution de Carapuce au niveau 16,[],-1
+8,9,Tortank,Évolution de Carabaffe au niveau 36,[],-1
+9,10,Chenipan,"Diamant : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[],-1
+10,11,Chrysacier,Évolution de Chenipan au niveau 7,[],-1
+11,12,Papilusion,Évolution de Chrysacier au niveau 10,[],-1
+12,13,Aspicot,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[],-1
+13,14,Coconfort,Évolution de Aspicot au niveau 7,[],-1
+14,15,Dardargnan,Évolution de Coconfort au niveau 10,[],-1
+15,16,Roucool,Route 229,['route-229'],-1
+16,17,Roucoups,Évolution de Roucool au niveau 18,[],-1
+17,18,Roucarnage,Évolution de Roucoups au niveau 36,[],-1
+18,19,Rattata,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 225","['route-225', 'chenal-226']",-1
+19,20,Rattatac,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 225Évolution de Rattata au niveau 20","['route-225', 'chenal-226']",-1
+20,21,Piafabec,"Chenal 226, Route 225","['route-225', 'chenal-226']",-1
+21,22,Rapasdepic,"Chenal 226, Mont Abrupt, Route 225, Route 227Évolution de Piafabec au niveau 20","['route-225', 'chenal-226', 'route-227', 'mont-abrupt']",-1
+22,23,Abo,"Diamant : Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[],-1
+23,24,Arbok,Évolution de Abo au niveau 22,[],-1
+24,25,Pikachu,Jardin TrophéeÉvolution de Pichu par montée de niveau avec beaucoup d'amitié,['manoir-pokemon'],104
+25,26,Raichu,Évolution de Pikachu en utilisant une Pierre Foudre,[],105
+26,27,Sabelette,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables)",[],-1
+27,28,Sablaireau,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables)Évolution de Sabelette au niveau 22",[],-1
+28,29,Nidoran♀,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 201",['route-201'],-1
+29,30,Nidorina,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Rive Lac Courage, Route 221Évolution de Nidoran♀️ au niveau 16","['route-221', 'rive-lac-courage']",-1
+30,31,Nidoqueen,Évolution de Nidorina en utilisant une Pierre Lune,[],-1
+31,32,Nidoran♂,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 201",['route-201'],-1
+32,33,Nidorino,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Rive Lac Courage, Route 221Évolution de Nidoran♂️ au niveau 16","['route-221', 'rive-lac-courage']",-1
+33,34,Nidoking,Évolution de Nidorino en utilisant une Pierre Lune,[],-1
+34,35,Mélofée,"Jardin Trophée, Mont CouronnéÉvolution de Mélo par montée de niveau avec beaucoup d'amitié","['manoir-pokemon', 'mont-couronne']",100
+35,36,Mélodelfe,Évolution de Mélofée en utilisant une Pierre Lune,[],101
+36,37,Goupix,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[],-1
+37,38,Feunard,Évolution de Goupix en utilisant une Pierre Feu,[],-1
+38,39,Rondoudou,Jardin TrophéeÉvolution de Toudoudou par montée de niveau avec beaucoup d'amitié,['manoir-pokemon'],-1
+39,40,Grodoudou,Évolution de Rondoudou en utilisant une Pierre Lune,[],-1
+40,41,Nosferapti,"Chemin Rocheux, Entrée de Charbourg, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grotte des Égarés, Mine de Charbourg, Mont Couronné, Rive Lac Savoir, Route 203, Route 204, Route 206, Route 207, Route 208, Route 209, Route 211, Route 216, Route 217, Tour Perdue, Île de Fer","['route-203', 'route-204', 'route-206', 'route-207', 'route-208', 'route-209', 'route-211', 'route-216', 'route-217', 'chemin-rocheux', 'entree-charbourg', 'grotte-des-egares', 'ile-de-fer', 'mine-charbourg', 'mont-couronne', 'rive-lac-savoir', 'tour-perdue']",28
+41,42,Nosferalto,"Chemin Rocheux, Entrée de Charbourg, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grotte du Retour, Mont Abrupt, Mont Couronné, Route 227, Route Victoire, Temple de Frimapic, Tour Perdue, Île de FerÉvolution de Nosferapti au niveau 22","['route-227', 'chemin-rocheux', 'entree-charbourg', 'grotte-retour', 'ile-de-fer', 'mont-abrupt', 'mont-couronne', 'route-victoire', 'temple-frimapic', 'tour-perdue']",29
+42,43,Mystherbe,"Chenal 230, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229","['route-229', 'chenal-230']",-1
+43,44,Ortide,"Chenal 230, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 224, Route 229Évolution de Mystherbe au niveau 21","['route-224', 'route-229', 'chenal-230']",-1
+44,45,Rafflesia,Évolution de Ortide en utilisant une Pierre Plante,[],-1
+45,46,Paras,"Grand Marais, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",['grand-marais'],-1
+46,47,Parasect,Évolution de Paras au niveau 24,[],-1
+47,48,Mimitoss,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229",['route-229'],-1
+48,49,Aéromite,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229Évolution de Mimitoss au niveau 31",['route-229'],-1
+49,50,Taupiqueur,Route 228,['route-228'],-1
+50,51,Triopikeur,Route 228Évolution de Taupiqueur au niveau 26,['route-228'],-1
+51,52,Miaouss,Jardin Trophée,['manoir-pokemon'],-1
+52,53,Persian,Évolution de Miaouss au niveau 28,[],-1
+53,54,Psykokwak,"Bonaugure, Chemin Rocheux, Célestia, Entrée de Charbourg, Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Lac Courage, Lac Savoir, Lac Vérité, Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 214, Vestigion","['route-203', 'route-204', 'route-205', 'route-208', 'route-209', 'route-210', 'route-212', 'route-214', 'chemin-rocheux', 'entree-charbourg', 'grand-marais', 'lac-courage', 'lac-savoir', 'lac-verite']",43
+54,55,Akwakwak,"Aire de Détente, Bonaugure, Chemin Rocheux, Chenal 226, Chenal 230, Célestia, Entrée de Charbourg, Grand Marais, Lac Courage, Lac Savoir, Lac Vérité, Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 214, Route 225, Source des Adieux, VestigionÉvolution de Psykokwak au niveau 33","['route-203', 'route-204', 'route-205', 'route-208', 'route-209', 'route-210', 'route-212', 'route-214', 'route-225', 'chenal-226', 'chenal-230', 'chemin-rocheux', 'entree-charbourg', 'grand-marais', 'lac-courage', 'lac-savoir', 'lac-verite', 'source-des-adieux']",44
+55,56,Férosinge,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 225","['route-225', 'chenal-226']",-1
+56,57,Colossinge,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 225Évolution de Férosinge au niveau 28","['route-225', 'chenal-226']",-1
+57,58,Caninos,"Diamant : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[],-1
+58,59,Arcanin,Évolution de Caninos en utilisant une Pierre Feu,[],-1
+59,60,Ptitard,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 225, Route 227, Route 228","['route-225', 'route-227', 'route-228']",-1
+60,61,Têtarte,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 225, Route 227, Route 228Évolution de Ptitard au niveau 25","['route-225', 'route-227', 'route-228']",-1
+61,62,Tartard,Évolution de Têtarte en utilisant une Pierre Eau,[],-1
+62,63,Abra,"Charbourg, Route 203, Route 215","['route-203', 'route-215']",20
+63,64,Kadabra,"Grands Souterrains (Biome Cristaux), Route 215, Route VictoireÉvolution de Abra au niveau 16","['route-215', 'route-victoire']",21
+64,65,Alakazam,Évolution de Kadabra par échange,[],22
+65,66,Machoc,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Mont Couronné, Route 207, Route 208, Route 210","['route-207', 'route-208', 'route-210', 'mont-couronne']",40
+66,67,Machopeur,"Chenal 226, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Mont Abrupt, Mont Couronné, Rive Lac Savoir, Route 210, Route 211, Route 216, Route 217, Route 225, Route VictoireÉvolution de Machoc au niveau 28","['route-210', 'route-211', 'route-216', 'route-217', 'route-225', 'chenal-226', 'mont-abrupt', 'mont-couronne', 'rive-lac-savoir', 'route-victoire']",41
+67,68,Mackogneur,Évolution de Machopeur par échange,[],42
+68,69,Chétiflor,"Chenal 230, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229","['route-229', 'chenal-230']",-1
+69,70,Boustiflor,"Chenal 230, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 224, Route 229Évolution de Chétiflor au niveau 21","['route-224', 'route-229', 'chenal-230']",-1
+70,71,Empiflor,Évolution de Boustiflor en utilisant une Pierre Plante,[],-1
+71,72,Tentacool,"Chenal 220, Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Parc Éolien, Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Verchamps, Île de Fer","['route-205', 'route-213', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'forge-fuego', 'ile-de-fer', 'parc-eolien']",136
+72,73,Tentacruel,"Chenal 220, Chenal 223, Chenal 226, Chenal 230, Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Ligue Pokémon, Parc Éolien, Rivamar, Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Route 224, Verchamps, Île de FerÉvolution de Tentacool au niveau 30","['route-205', 'route-213', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'chenal-223', 'route-224', 'chenal-226', 'chenal-230', 'forge-fuego', 'ile-de-fer', 'parc-eolien']",137
+73,74,Racaillou,"Chemin Rocheux, Entrée de Charbourg, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables), Grotte des Égarés, Mine de Charbourg, Mont Abrupt, Mont Couronné, Rive Lac Courage, Route 206, Route 207, Route 210, Route 211, Route 214, Route 215, Tunnel du Ruinophile, Île de Fer","['route-206', 'route-207', 'route-210', 'route-211', 'route-214', 'route-215', 'chemin-rocheux', 'entree-charbourg', 'grotte-des-egares', 'grotte-ruinophile', 'ile-de-fer', 'mine-charbourg', 'mont-abrupt', 'mont-couronne', 'rive-lac-courage']",31
+74,75,Gravalanch,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Mont Couronné, Rive Lac Courage, Route 211, Route 214, Route 216, Route 227, Route Victoire, Temple de Frimapic, Île de FerÉvolution de Racaillou au niveau 25","['route-211', 'route-214', 'route-216', 'route-227', 'ile-de-fer', 'mont-abrupt', 'mont-couronne', 'rive-lac-courage', 'route-victoire', 'temple-frimapic']",32
+75,76,Grolem,Évolution de Gravalanch par échange,[],33
+76,77,Ponyta,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Route 206, Route 210, Route 211, Route 214, Route 215","['route-206', 'route-210', 'route-211', 'route-214', 'route-215']",90
+77,78,Galopa,Évolution de Ponyta au niveau 40,[],91
+78,79,Ramoloss,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 205",['route-205'],-1
+79,80,Flagadoss,Évolution de Ramoloss au niveau 37,[],-1
+80,81,Magnéti,"Forge Fuego, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)",['forge-fuego'],-1
+81,82,Magnéton,Évolution de Magnéti au niveau 30,[],-1
+82,83,Canarticho,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 221",['route-221'],-1
+83,84,Doduo,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 201",['route-201'],-1
+84,85,Dodrio,Évolution de Doduo au niveau 31,[],-1
+85,86,Otaria,"Diamant : Chenal 226, Chenal 230, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)","['chenal-226', 'chenal-230']",-1
+86,87,Lamantine,"Diamant : Chenal 226, Chenal 230, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Évolution de Otaria au niveau 34","['chenal-226', 'chenal-230']",-1
+87,88,Tadmorv,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Route 212",['route-212'],-1
+88,89,Grotadmorv,Évolution de Tadmorv au niveau 38,[],-1
+89,90,Kokiyas,"Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Parc Éolien, Route 205","['route-205', 'forge-fuego', 'parc-eolien']",-1
+90,91,Crustabri,Évolution de Kokiyas en utilisant une Pierre Eau,[],-1
+91,92,Fantominus,"Grands Souterrains (Biome Cristaux), Route 209, Tour Perdue, Vieux Château","['route-209', 'tour-perdue', 'vieux-chateau']",69
+92,93,Spectrum,"Frimapic, Grotte du RetourÉvolution de Fantominus au niveau 25",['grotte-retour'],70
+93,94,Ectoplasma,Évolution de Spectrum par échange,[],71
+94,95,Onix,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mine de Charbourg, Mont Abrupt, Route Victoire, Temple de Frimapic, Île de Fer","['ile-de-fer', 'mine-charbourg', 'mont-abrupt', 'route-victoire', 'temple-frimapic']",34
+95,96,Soporifik,"Grands Souterrains (Biome Cristaux), Route 215",['route-215'],-1
+96,97,Hypnomade,Évolution de Soporifik au niveau 26,[],-1
+97,98,Krabby,"Chenal 226, Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte)",['chenal-226'],-1
+98,99,Krabboss,Évolution de Krabby au niveau 28,[],-1
+99,100,Voltorbe,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Route 218",['route-218'],-1
+100,101,Électrode,Évolution de Voltorbe au niveau 30,[],-1
+101,102,Noeunoeuf,Grand Marais,['grand-marais'],-1
+102,103,Noadkoko,Évolution de Noeunoeuf en utilisant une Pierre Plante,[],-1
+103,104,Osselait,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Sables), Route 203",['route-203'],-1
+104,105,Ossatueur,Évolution de Osselait au niveau 28,[],-1
+105,106,Kicklee,"Évolution de Debugant au niveau 20, si Attaque > Défense",[],-1
+106,107,Tygnon,"Évolution de Debugant au niveau 20, si Attaque < Défense",[],-1
+107,108,Excelangue,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Lac Courage",['lac-courage'],-1
+108,109,Smogo,Reproduction,[],-1
+109,110,Smogogo,"Grands Souterrains (Biome Marais), Mont Abrupt, Route 227Évolution de Smogo au niveau 35","['route-227', 'mont-abrupt']",-1
+110,111,Rhinocorne,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Route 227","['route-227', 'mont-abrupt']",-1
+111,112,Rhinoféros,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Route 227, Route 228Évolution de Rhinocorne au niveau 42","['route-227', 'route-228', 'mont-abrupt']",-1
+112,113,Leveinard,"Jardin Trophée, Route 209, Route 210Évolution de Ptiravi par montée de niveau avec une Pierre Ovale tenue le jour","['route-209', 'route-210', 'manoir-pokemon']",97
+113,114,Saquedeneu,Grands Souterrains (Biome Marais),[],-1
+114,115,Kangourex,Grand Marais,['grand-marais'],-1
+115,116,Hypotrempe,"Chenal 226, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",['chenal-226'],-1
+116,117,Hypocéan,Chenal 226Évolution de Hypotrempe au niveau 32,['chenal-226'],-1
+117,118,Poissirène,"Aire de Détente, Bonaugure, Lac Courage, Lac Savoir, Lac Vérité, Route 203, Route 204, Route 209, Route 212, Route 214, Source des Adieux","['route-203', 'route-204', 'route-209', 'route-212', 'route-214', 'lac-courage', 'lac-savoir', 'lac-verite', 'source-des-adieux']",78
+118,119,Poissoroy,"Aire de Détente, Bonaugure, Lac Courage, Lac Savoir, Lac Vérité, Route 203, Route 204, Route 209, Route 212, Route 214, Source des AdieuxÉvolution de Poissirène au niveau 33","['route-203', 'route-204', 'route-209', 'route-212', 'route-214', 'lac-courage', 'lac-savoir', 'lac-verite', 'source-des-adieux']",79
+119,120,Stari,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Rivamar",[],-1
+120,121,Staross,Évolution de Stari en utilisant une Pierre Eau,[],-1
+121,122,M. Mime,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Route 218DE, Route 222DEÉvolution de Mime Jr. par montée de niveau en ayant appris Copie","['route-218', 'route-222']",95
+122,123,Insécateur,"Diamant : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 229",['route-229'],-1
+123,124,Lippoutou,Évolution de Lippouti au niveau 30,[],-1
+124,125,Élektek,Évolution de Élekid au niveau 30,[],-1
+125,126,Magmar,Évolution de Magby au niveau 30,[],-1
+126,127,Scarabrute,"Perle : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 229",['route-229'],-1
+127,128,Tauros,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 209, Route 210","['route-209', 'route-210']",-1
+128,129,Magicarpe,"Aire de Détente, Bonaugure, Chemin Rocheux, Chenal 220, Chenal 223, Chenal 226, Chenal 230, Célestia, Entrée de Charbourg, Forge Fuego, Grand Marais, Joliberges, Lac Courage, Lac Savoir, Lac Vérité, Ligue Pokémon, Mont Couronné, Parc Éolien, Rivamar, Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 213, Route 214, Route 218, Route 219, Route 221, Route 222, Route 224, Route 225, Route 227, Route 228, Route 229, Route Victoire, Source des Adieux, Verchamps, Vestigion, Île de Fer","['route-203', 'route-204', 'route-205', 'route-208', 'route-209', 'route-210', 'route-212', 'route-213', 'route-214', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'chenal-223', 'route-224', 'route-225', 'chenal-226', 'route-227', 'route-228', 'route-229', 'chenal-230', 'chemin-rocheux', 'entree-charbourg', 'forge-fuego', 'grand-marais', 'ile-de-fer', 'lac-courage', 'lac-savoir', 'lac-verite', 'mont-couronne', 'parc-eolien', 'route-victoire', 'source-des-adieux']",23
+129,130,Léviator,"Aire de Détente, Bonaugure, Chemin Rocheux, Chenal 220, Chenal 223, Chenal 226, Chenal 230, Célestia, Entrée de Charbourg, Forge Fuego, Grand Marais, Joliberges, Lac Courage, Lac Savoir, Lac Vérité, Ligue Pokémon, Mont Couronné, Parc Éolien, Rivamar, Route 203, Route 204, Route 205, Route 208, Route 209, Route 210, Route 212, Route 213, Route 214, Route 218, Route 219, Route 221, Route 222, Route 224, Route 225, Route 227, Route 228, Route 229, Route Victoire, Source des Adieux, Verchamps, Vestigion, Île de FerÉvolution de Magicarpe au niveau 20","['route-203', 'route-204', 'route-205', 'route-208', 'route-209', 'route-210', 'route-212', 'route-213', 'route-214', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'chenal-223', 'route-224', 'route-225', 'chenal-226', 'route-227', 'route-228', 'route-229', 'chenal-230', 'chemin-rocheux', 'entree-charbourg', 'forge-fuego', 'grand-marais', 'ile-de-fer', 'lac-courage', 'lac-savoir', 'lac-verite', 'mont-couronne', 'parc-eolien', 'route-victoire', 'source-des-adieux']",24
+130,131,Lokhlass,Route Victoire,['route-victoire'],-1
+131,132,Métamorph,"Grands Souterrains (Biome Cristaux), Route 218",['route-218'],-1
+132,133,Évoli,"Jardin Trophée, Unionpolis",['manoir-pokemon'],-1
+133,134,Aquali,Évolution de Évoli en utilisant une Pierre Eau,[],-1
+134,135,Voltali,Évolution de Évoli en utilisant une Pierre Foudre,[],-1
+135,136,Pyroli,Évolution de Évoli en utilisant une Pierre Feu,[],-1
+136,137,Porygon,Jardin Trophée,['manoir-pokemon'],-1
+137,138,Amonita,Charbourg,[],-1
+138,139,Amonistar,Évolution de Amonita au niveau 40,[],-1
+139,140,Kabuto,Charbourg,[],-1
+140,141,Kabutops,Évolution de Kabuto au niveau 40,[],-1
+141,142,Ptéra,Charbourg,[],-1
+142,143,Ronflex,Évolution de Goinfrex par montée de niveau avec beaucoup d'amitié,[],113
+143,144,Artikodin,Perle : Parc Rosa Rugosa,[],-1
+144,145,Électhor,Perle : Parc Rosa Rugosa,[],-1
+145,146,Sulfura,Perle : Parc Rosa Rugosa,[],-1
+146,147,Minidraco,"Grands Souterrains (Biome Eaux), Mont Couronné",['mont-couronne'],-1
+147,148,Draco,Mont CouronnéÉvolution de Minidraco au niveau 30,['mont-couronne'],-1
+148,149,Dracolosse,Évolution de Draco au niveau 55,[],-1
+149,150,Mewtwo,Parc Rosa Rugosa,[],-1
+150,151,Mew,Floraville,[],-1
+151,152,Germignon,"Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[],-1
+152,153,Macronium,Évolution de Germignon au niveau 16,[],-1
+153,154,Méganium,Évolution de Macronium au niveau 32,[],-1
+154,155,Héricendre,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[],-1
+155,156,Feurisson,Évolution de Héricendre au niveau 14,[],-1
+156,157,Typhlosion,Évolution de Feurisson au niveau 36,[],-1
+157,158,Kaiminus,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",[],-1
+158,159,Crocrodil,Évolution de Kaiminus au niveau 18,[],-1
+159,160,Aligatueur,Évolution de Crocrodil au niveau 30,[],-1
+160,161,Fouinette,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables), Route 202",['route-202'],-1
+161,162,Fouinar,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables)Évolution de Fouinette au niveau 15",[],-1
+162,163,Hoothoot,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 210, Route 211","['route-210', 'route-211', 'grand-marais']",106
+163,164,Noarfang,"Grand Marais, Lac Courage, Lac Savoir, Mont Couronné, Rive Lac Savoir, Route 210, Route 211, Route 216, Route 217, Source des AdieuxÉvolution de Hoothoot au niveau 20","['route-210', 'route-211', 'route-216', 'route-217', 'grand-marais', 'lac-courage', 'lac-savoir', 'mont-couronne', 'rive-lac-savoir', 'source-des-adieux']",107
+164,165,Coxy,Reproduction,[],-1
+165,166,Coxyclaque,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 229Évolution de Coxy au niveau 18",['route-229'],-1
+166,167,Mimigal,Reproduction,[],-1
+167,168,Migalos,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Route 229Évolution de Mimigal au niveau 22",['route-229'],-1
+168,169,Nostenfer,Évolution de Nosferalto par montée de niveau avec beaucoup d'amitié,[],30
+169,170,Loupio,"Chenal 220, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier)",['chenal-220'],-1
+170,171,Lanturn,"Chenal 220, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier)Évolution de Loupio au niveau 27",['chenal-220'],-1
+171,172,Pichu,Jardin TrophéeReproduction de Pikachu ou Raichu,['manoir-pokemon'],103
+172,173,Mélo,"Jardin Trophée, Mont CouronnéReproduction de Mélofée ou Mélodelfe","['manoir-pokemon', 'mont-couronne']",99
+173,174,Toudoudou,Jardin TrophéeReproduction de Rondoudou ou Grodoudou,['manoir-pokemon'],-1
+174,175,Togepi,"Chenal 230, Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Eaux)Reproduction de Togetic ou Togekiss",['chenal-230'],-1
+175,176,Togetic,Évolution de Togepi par montée de niveau avec beaucoup d'amitié,[],-1
+176,177,Natu,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Route 224",['route-224'],-1
+177,178,Xatu,Évolution de Natu au niveau 25,[],-1
+178,179,Wattouat,"Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Parc Éolien",['parc-eolien'],-1
+179,180,Lainergie,"Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Route 222Évolution de Wattouat au niveau 15",['route-222'],-1
+180,181,Pharamp,Évolution de Lainergie au niveau 30,[],-1
+181,182,Joliflor,Évolution de Ortide en utilisant une Pierre Soleil,[],-1
+182,183,Marill,"Grand Marais, Jardin TrophéeÉvolution de Azurill par montée de niveau avec beaucoup d'amitié","['grand-marais', 'manoir-pokemon']",125
+183,184,Azumarill,Évolution de Marill au niveau 18,[],126
+184,185,Simularbre,"Perle : Route 214, Route 221Évolution de Manzaï par montée de niveau en ayant appris l'attaque Copie","['route-214', 'route-221']",93
+185,186,Tarpaud,Évolution de Têtarte par échange avec Roche Royale tenue,[],-1
+186,187,Granivol,"Forge FuegoPS, Grands Souterrains (Biome Prairie), Route 205","['route-205', 'forge-fuego']",-1
+187,188,Floravol,"Forge FuegoPS, Grands Souterrains (Biome Prairie), Route 205DEÉvolution de Granivol au niveau 18","['route-205', 'forge-fuego']",-1
+188,189,Cotovol,Évolution de Floravol au niveau 27,[],-1
+189,190,Capumain,"Arbres à Miel, Grands Souterrains (Biome Grotte)",[],63
+190,191,Tournegrin,"Grands Souterrains (Biome Prairie), Route 204",['route-204'],-1
+191,192,Héliatronc,Évolution de Tournegrin en utilisant une Pierre Soleil,[],-1
+192,193,Yanma,Grand Marais,['grand-marais'],-1
+193,194,Axoloto,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Route 212","['route-212', 'grand-marais']",117
+194,195,Maraiste,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Route 212Évolution de Axoloto au niveau 20","['route-212', 'grand-marais']",118
+195,196,Mentali,"Évolution de Évoli par montée de niveau avec beaucoup d'amitié, le jour",[],-1
+196,197,Noctali,"Évolution de Évoli par montée de niveau avec beaucoup d'amitié, la nuit",[],-1
+197,198,Cornèbre,"Diamant : Forêt de Vestigion, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Tour Perdue","['foret-vestigion', 'tour-perdue']",74
+198,199,Roigada,Évolution de Ramoloss par échange avec Roche Royale tenue,[],-1
+199,200,Feuforêve,"Perle : Forêt de Vestigion, Grands Souterrains (Biome Cristaux), Tour Perdue","['foret-vestigion', 'tour-perdue']",72
+200,201,Zarbi,Ruines de Bonville,[],114
+201,202,Qulbutoké,"Grands Souterrains (Biome Cristaux), Lac Courage, Lac Savoir, Lac VéritéÉvolution de Okéoké au niveau 15","['lac-courage', 'lac-savoir', 'lac-verite']",-1
+202,203,Girafarig,"Grands Souterrains (Biome Cristaux), Rive Lac Courage, Route 214","['route-214', 'rive-lac-courage']",121
+203,204,Pomdepik,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",[],-1
+204,205,Foretress,Évolution de Pomdepik au niveau 31,[],-1
+205,206,Insolourdo,Route 208,['route-208'],-1
+206,207,Scorplane,"Diamant : Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables)",[],-1
+207,208,Steelix,"Route Victoire, Temple de Frimapic, Île de FerÉvolution de Onix par échange avec Peau Métal tenue","['ile-de-fer', 'route-victoire', 'temple-frimapic']",35
+208,209,Snubbull,"Grands Souterrains (Biome Cristaux), Route 209",['route-209'],-1
+209,210,Granbull,Évolution de Snubbull au niveau 23,[],-1
+210,211,Qwilfish,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Île de Fer",['ile-de-fer'],-1
+211,212,Cizayox,Évolution de Insécateur par échange avec Peau Métal tenue,[],-1
+212,213,Caratroc,"Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables)",[],-1
+213,214,Scarhino,Arbres à Miel,[],62
+214,215,Farfuret,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Lac Savoir, Rive Lac Savoir, Route 216, Route 217, Temple de Frimapic","['route-216', 'route-217', 'lac-savoir', 'rive-lac-savoir', 'temple-frimapic']",144
+215,216,Teddiursa,"Perle : Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables)",[],-1
+216,217,Ursaring,Évolution de Teddiursa au niveau 30,[],-1
+217,218,Limagma,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Mont Abrupt",['mont-abrupt'],-1
+218,219,Volcaropod,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Mont AbruptÉvolution de Limagma au niveau 38",['mont-abrupt'],-1
+219,220,Marcacrin,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Route 217",['route-217'],-1
+220,221,Cochignon,Évolution de Marcacrin au niveau 33,[],-1
+221,222,Corayon,"Chenal 230, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",['chenal-230'],-1
+222,223,Rémoraid,"Chenal 223, Chenal 230, Ligue Pokémon, Rivamar, Route 213, Route 222, Route 224, Verchamps","['route-213', 'route-222', 'chenal-223', 'route-224', 'chenal-230']",132
+223,224,Octillery,"Chenal 223, Chenal 230, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Ligue Pokémon, Rivamar, Route 213, Route 222, Route 224, VerchampsÉvolution de Rémoraid au niveau 25","['route-213', 'route-222', 'chenal-223', 'route-224', 'chenal-230']",133
+224,225,Cadoizo,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Route 216",['route-216'],-1
+225,226,Démanta,Évolution de Babimanta par montée de niveau avec Rémoraid dans l'équipe,[],141
+226,227,Airmure,"Mont Abrupt, Route 227","['route-227', 'mont-abrupt']",-1
+227,228,Malosse,Reproduction,[],-1
+228,229,Démolosse,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Route 214PS, Route 215PSÉvolution de Malosse au niveau 24","['route-214', 'route-215']",-1
+229,230,Hyporoi,Évolution de Hypocéan par échange avec Écaille Draco tenue,[],-1
+230,231,Phanpy,"Grands Souterrains (Biome Sables), Route 207",['route-207'],-1
+231,232,Donphan,Évolution de Phanpy au niveau 25,[],-1
+232,233,Porygon2,Évolution de Porygon par échange avec Améliorator tenu,[],-1
+233,234,Cerfrousse,Perle : Route 207,['route-207'],-1
+234,235,Queulorior,Route 212,['route-212'],-1
+235,236,Debugant,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 208, Route 211","['route-208', 'route-211']",-1
+236,237,Kapoera,"Évolution de Debugant au niveau 20, si Défense = Attaque",[],-1
+237,238,Lippouti,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Lac SavoirReproduction de Lippoutou",['lac-savoir'],-1
+238,239,Élekid,"Diamant : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Reproduction de Élektek ou Élekable",[],-1
+239,240,Magby,"Perle : Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)Reproduction de Magmar ou Maganon",[],-1
+240,241,Écrémeuh,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Route 209, Route 210","['route-209', 'route-210']",-1
+241,242,Leuphorie,Évolution de Leveinard par montée de niveau avec beaucoup d'amitié,[],98
+242,243,Raikou,Diamant : Parc Rosa Rugosa,[],-1
+243,244,Entei,Diamant : Parc Rosa Rugosa,[],-1
+244,245,Suicune,Diamant : Parc Rosa Rugosa,[],-1
+245,246,Embrylex,"Diamant : Grands Souterrains (Biome Sables), Route 207",['route-207'],-1
+246,247,Ymphect,Diamant : Grands Souterrains (Biome Sables)Évolution de Embrylex au niveau 30,[],-1
+247,248,Tyranocif,Évolution de Ymphect au niveau 55,[],-1
+248,249,Lugia,Perle : Parc Rosa Rugosa,[],-1
+249,250,Ho-Oh,Diamant : Parc Rosa Rugosa,[],-1
+250,251,Celebi,-,[],-1
+251,252,Arcko,"Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[],-1
+252,253,Massko,Évolution de Arcko au niveau 16,[],-1
+253,254,Jungko,Évolution de Massko au niveau 36,[],-1
+254,255,Poussifeu,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave)",[],-1
+255,256,Galifeu,Évolution de Poussifeu au niveau 16,[],-1
+256,257,Braségali,Évolution de Galifeu au niveau 36,[],-1
+257,258,Gobou,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",[],-1
+258,259,Flobio,Évolution de Gobou au niveau 16,[],-1
+259,260,Laggron,Évolution de Flobio au niveau 36,[],-1
+260,261,Medhyèna,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier)",[],-1
+261,262,Grahyèna,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Route 214DE, Route 215DEÉvolution de Medhyèna au niveau 18","['route-214', 'route-215']",-1
+262,263,Zigzaton,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Sables), Route 202",['route-202'],-1
+263,264,Linéon,Évolution de Zigzaton au niveau 20,[],-1
+264,265,Chenipotte,"Arbres à Miel, Forêt de Vestigion, Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",['foret-vestigion'],48
+265,266,Armulys,"Diamant : Arbres à Miel, Forêt de Vestigion, Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Évolution de Chenipotte au niveau 7",['foret-vestigion'],49
+266,267,Charmillon,"Chenal 230DE, Forêt de VestigionDE, Route 224Évolution de Armulys au niveau 10","['route-224', 'chenal-230', 'foret-vestigion']",50
+267,268,Blindalys,"Perle : Arbres à Miel, Forêt de Vestigion, Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Évolution de Chenipotte au niveau 7",['foret-vestigion'],51
+268,269,Papinox,"Perle : Chenal 230, Forêt de VestigionÉvolution de Blindalys au niveau 10","['chenal-230', 'foret-vestigion']",52
+269,270,Nénupiot,"Perle : Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[],-1
+270,271,Lombre,"Perle : Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Évolution de Nénupiot au niveau 14",[],-1
+271,272,Ludicolo,Évolution de Lombre en utilisant une Pierre Eau,[],-1
+272,273,Grainipiot,"Diamant : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",[],-1
+273,274,Pifeuil,"Diamant : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Évolution de Grainipiot au niveau 14",[],-1
+274,275,Tengalice,Évolution de Pifeuil en utilisant une Pierre Plante,[],-1
+275,276,Nirondelle,Reproduction,[],-1
+276,277,Hélédelle,Route 213Évolution de Nirondelle au niveau 22,['route-213'],-1
+277,278,Goélise,"Chenal 220, Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Parc Éolien, Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Route 229, Verchamps, Île de Fer","['route-205', 'route-213', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'route-229', 'forge-fuego', 'ile-de-fer', 'parc-eolien']",119
+278,279,Bekipan,"Chenal 220, Chenal 223, Chenal 226, Chenal 230, Forge Fuego, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Joliberges, Ligue Pokémon, Parc Éolien, Rivamar, Route 205, Route 213, Route 218, Route 219, Route 221, Route 222, Route 224, Route 229, Verchamps, Île de FerÉvolution de Goélise au niveau 25","['route-205', 'route-213', 'route-218', 'route-219', 'chenal-220', 'route-221', 'route-222', 'chenal-223', 'route-224', 'chenal-226', 'route-229', 'chenal-230', 'forge-fuego', 'ile-de-fer', 'parc-eolien']",120
+279,280,Tarsal,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Eaux), Route 203, Route 204","['route-203', 'route-204']",-1
+280,281,Kirlia,"Grands Souterrains (Biome Cristaux), Route 203, Route 204Évolution de Tarsal au niveau 20",['route-203'],-1
+281,282,Gardevoir,Évolution de Kirlia au niveau 30,[],-1
+282,283,Arakdo,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Lac Vérité",['lac-verite'],-1
+283,284,Maskadra,Évolution de Arakdo au niveau 22,[],-1
+284,285,Balignon,Grand Marais,['grand-marais'],-1
+285,286,Chapignon,Évolution de Balignon au niveau 23,[],-1
+286,287,Parecool,Forêt de Vestigion,['foret-vestigion'],-1
+287,288,Vigoroth,Évolution de Parecool au niveau 18,[],-1
+288,289,Monaflèmit,Évolution de Vigoroth au niveau 36,[],-1
+289,290,Ningale,"Forêt de Vestigion, Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",['foret-vestigion'],-1
+290,291,Ninjask,Évolution de Ningale au niveau 20,[],-1
+291,292,Munja,Évolution de Ningale au niveau 20 avec un emplacement libre dans l'équipe et une Poké Ball dans le sac,[],-1
+292,293,Chuchmur,Reproduction,[],-1
+293,294,Ramboum,Mont CouronnéÉvolution de Chuchmur au niveau 20,['mont-couronne'],-1
+294,295,Brouhabam,Évolution de Ramboum au niveau 40,[],-1
+295,296,Makuhita,Route 225,['route-225'],-1
+296,297,Hariyama,Évolution de Makuhita au niveau 24,[],-1
+297,298,Azurill,"Grand Marais, Jardin TrophéeReproduction de Marill ou Azumarill avec Encens Mer tenu","['grand-marais', 'manoir-pokemon']",124
+298,299,Tarinor,Route 206,['route-206'],-1
+299,300,Skitty,"Grands Souterrains (Biome Grotte), Route 222",['route-222'],-1
+300,301,Delcatty,Évolution de Skitty en utilisant une Pierre Lune,[],-1
+301,302,Ténéfix,Perle : Grands Souterrains (Biome Cristaux),[],-1
+302,303,Mysdibule,Diamant : Grands Souterrains (Biome Cristaux),[],-1
+303,304,Galekid,"Forge FuegoDE, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables)",['forge-fuego'],-1
+304,305,Galegon,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables)Évolution de Galekid au niveau 32",[],-1
+305,306,Galeking,Évolution de Galegon au niveau 42,[],-1
+306,307,Méditikka,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Neige), Mont Couronné, Rive Lac Savoir, Route 208, Route 210, Route 211, Route 216, Route 217","['route-208', 'route-210', 'route-211', 'route-216', 'route-217', 'mont-couronne', 'rive-lac-savoir']",86
+307,308,Charmina,"Mont Couronné, Rive Lac Savoir, Route 217, Route VictoireÉvolution de Méditikka au niveau 37","['route-217', 'mont-couronne', 'rive-lac-savoir', 'route-victoire']",87
+308,309,Dynavolt,Parc Éolien,['parc-eolien'],-1
+309,310,Élecsprint,Évolution de Dynavolt au niveau 26,[],-1
+310,311,Posipi,Jardin Trophée,['manoir-pokemon'],-1
+311,312,Négapi,Jardin Trophée,['manoir-pokemon'],-1
+312,313,Muciole,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie), Route 229",['route-229'],-1
+313,314,Lumivole,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie), Route 229",['route-229'],-1
+314,315,Rosélia,"Grand Marais, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Jardin Trophée, Route 212, Route 221, Route 224, Route 225, Route 229DEÉvolution de Rozbouton par montée de niveau avec beaucoup d'amitié, le jour","['route-212', 'route-221', 'route-224', 'route-225', 'route-229', 'grand-marais', 'manoir-pokemon']",26
+315,316,Gloupti,Grand Marais,['grand-marais'],-1
+316,317,Avaltout,Évolution de Gloupti au niveau 26,[],-1
+317,318,Carvanha,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)",['grand-marais'],-1
+318,319,Sharpedo,"Route 213, Route 222Évolution de Carvanha au niveau 30","['route-213', 'route-222']",-1
+319,320,Wailmer,"Chenal 223, Chenal 230","['chenal-223', 'chenal-230']",-1
+320,321,Wailord,"Chenal 223, Chenal 230Évolution de Wailmer au niveau 40","['chenal-223', 'chenal-230']",-1
+321,322,Chamallot,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Route 227","['route-227', 'mont-abrupt']",-1
+322,323,Camérupt,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Mont Abrupt, Route 227Évolution de Chamallot au niveau 33","['route-227', 'mont-abrupt']",-1
+323,324,Chartor,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Mont Abrupt, Route 227","['route-227', 'mont-abrupt']",-1
+324,325,Spoink,Route 214,['route-214'],-1
+325,326,Groret,Évolution de Spoink au niveau 32,[],-1
+326,327,Spinda,Route 227,['route-227'],-1
+327,328,Kraknoix,"Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Route 228",['route-228'],-1
+328,329,Vibraninf,"Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 228Évolution de Kraknoix au niveau 35",['route-228'],-1
+329,330,Libégon,Évolution de Vibraninf au niveau 45,[],-1
+330,331,Cacnea,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 228",['route-228'],-1
+331,332,Cacturne,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 228Évolution de Cacnea au niveau 32",['route-228'],-1
+332,333,Tylton,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Route 211",['route-211'],-1
+333,334,Altaria,Évolution de Tylton au niveau 35,[],-1
+334,335,Mangriff,"Diamant : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",[],-1
+335,336,Séviper,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",[],-1
+336,337,Séléroc,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie / Eaux)",[],-1
+337,338,Solaroc,"Diamant : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Prairie / Eaux)",[],-1
+338,339,Barloche,"Chemin Rocheux, Célestia, Entrée de Charbourg, Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Mont Couronné, Route 205, Route 208, Route 210, Route 212, Route 227, Route 228, Vestigion","['route-205', 'route-208', 'route-210', 'route-212', 'route-227', 'route-228', 'chemin-rocheux', 'entree-charbourg', 'grand-marais', 'mont-couronne']",80
+339,340,Barbicha,"Chemin Rocheux, Célestia, Entrée de Charbourg, Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux), Mont Couronné, Route 205, Route 208, Route 210, Route 212, Route 227, Route 228, VestigionÉvolution de Barloche au niveau 30","['route-205', 'route-208', 'route-210', 'route-212', 'route-227', 'route-228', 'chemin-rocheux', 'entree-charbourg', 'grand-marais', 'mont-couronne']",81
+340,341,Écrapince,"Célestia, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux)",[],-1
+341,342,Colhomard,"Célestia, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux)Évolution de Écrapince au niveau 30",[],-1
+342,343,Balbuto,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Sables), Route 206",['route-206'],-1
+343,344,Kaorine,Évolution de Balbuto au niveau 36,[],-1
+344,345,Lilia,Charbourg,[],-1
+345,346,Vacilys,Évolution de Lilia au niveau 40,[],-1
+346,347,Anorith,Charbourg,[],-1
+347,348,Armaldo,Évolution de Anorith au niveau 40,[],-1
+348,349,Barpau,Mont Couronné,['mont-couronne'],138
+349,350,Milobellus,Évolution de Barpau avec la Beauté à 170 puis en montant un niveau,[],139
+350,351,Morphéo,Jardin Trophée,['manoir-pokemon'],-1
+351,352,Kecleon,"Diamant : Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 210",['route-210'],-1
+352,353,Polichombr,Reproduction,[],-1
+353,354,Branette,"Chenal 226, Grands Souterrains (Biome Cristaux), Mont Abrupt, Route 225, Route 227Évolution de Polichombr au niveau 37","['route-225', 'chenal-226', 'route-227', 'mont-abrupt']",-1
+354,355,Skelénox,"Grands Souterrains (Biome Cristaux), Route 224",['route-224'],-1
+355,356,Téraclope,"Grands Souterrains (Biome Cristaux), Route 224Évolution de Skelénox au niveau 37",['route-224'],-1
+356,357,Tropius,"Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie)",[],-1
+357,358,Éoko,"Mont Couronné, Source des AdieuxÉvolution de Korillon par montée de niveau avec beaucoup d'amitié, la nuit","['mont-couronne', 'source-des-adieux']",83
+358,359,Absol,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie), Grands Souterrains (Biome Sables), Route 213",['route-213'],-1
+359,360,Okéoké,Reproduction de Qulbutoké avec Encens Doux tenu,[],-1
+360,361,Stalgamin,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Rive Lac Savoir, Route 216, Route 217","['route-216', 'route-217', 'rive-lac-savoir']",-1
+361,362,Oniglali,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Évolution de Stalgamin au niveau 42",[],-1
+362,363,Obalie,"Perle : Chenal 226, Chenal 230, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)","['chenal-226', 'chenal-230']",-1
+363,364,Phogleur,"Perle : Chenal 226, Chenal 230, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Évolution de Obalie au niveau 32","['chenal-226', 'chenal-230']",-1
+364,365,Kaimorse,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige)Évolution de Phogleur au niveau 44",[],-1
+365,366,Coquiperl,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Route 219, Route 221","['route-219', 'route-221']",-1
+366,367,Serpang,Évolution de Coquiperl par échange avec Dent Océan tenue,[],-1
+367,368,Rosabyss,Évolution de Coquiperl par échange avec Écaille Océan tenue,[],-1
+368,369,Relicanth,Chenal 226,['chenal-226'],-1
+369,370,Lovdisc,"Ligue Pokémon, Route 224",['route-224'],-1
+370,371,Draby,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Route 210",['route-210'],-1
+371,372,Drackhaus,"Perle : Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte)Évolution de Draby au niveau 30",[],-1
+372,373,Drattak,Évolution de Drackhaus au niveau 50,[],-1
+373,374,Terhal,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Sables), Route 228",['route-228'],-1
+374,375,Métang,Évolution de Terhal au niveau 20,[],-1
+375,376,Métalosse,Évolution de Métang au niveau 45,[],-1
+376,377,Regirock,Parc Rosa Rugosa,[],-1
+377,378,Regice,Parc Rosa Rugosa,[],-1
+378,379,Registeel,Parc Rosa Rugosa,[],-1
+379,380,Latias,Parc Rosa Rugosa,[],-1
+380,381,Latios,Parc Rosa Rugosa,[],-1
+381,382,Kyogre,Parc Rosa Rugosa,[],-1
+382,383,Groudon,Parc Rosa Rugosa,[],-1
+383,384,Rayquaza,Parc Rosa Rugosa,[],-1
+384,385,Jirachi,Floraville,[],-1
+385,386,Deoxys,-,[],-1
+386,387,Tortipouss,"Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Lac Vérité",[],1
+387,388,Boskara,Évolution de Tortipouss au niveau 18,[],2
+388,389,Torterra,Évolution de Boskara au niveau 32,[],3
+389,390,Ouisticram,"Grands Souterrains (Biome Lave), Grands Souterrains (Biome Sables / Lave), Lac Vérité",[],4
+390,391,Chimpenfeu,Évolution de Ouisticram au niveau 14,[],5
+391,392,Simiabraz,Évolution de Chimpenfeu au niveau 36,[],6
+392,393,Tiplouf,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Lac Vérité",[],7
+393,394,Prinplouf,Évolution de Tiplouf au niveau 16,[],8
+394,395,Pingoléon,Évolution de Prinplouf au niveau 36,[],9
+395,396,Étourmi,"Grand Marais, Lac Vérité, Route 201, Route 202, Route 203, Route 204, Route 209, Route 212","['route-201', 'route-202', 'route-203', 'route-204', 'route-209', 'route-212', 'grand-marais', 'lac-verite']",10
+396,397,Étourvol,"Grand Marais, Jardin Trophée, Lac Courage, Rive Lac Courage, Route 209, Route 212, Source des AdieuxÉvolution de Étourmi au niveau 14","['route-209', 'route-212', 'grand-marais', 'lac-courage', 'manoir-pokemon', 'rive-lac-courage', 'source-des-adieux']",11
+397,398,Étouraptor,Évolution de Étourvol au niveau 34,[],12
+398,399,Keunotor,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Lac Vérité, Parc Éolien, Route 201, Route 202, Route 203, Route 204, Route 205, Route 208, Route 211","['route-201', 'route-202', 'route-203', 'route-204', 'route-205', 'route-208', 'route-211', 'grand-marais', 'lac-verite', 'parc-eolien']",13
+399,400,Castorno,"Grand Marais, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Lac Courage, Lac Savoir, Rive Lac Courage, Route 208, Route 209, Route 210, Route 212, Source des AdieuxÉvolution de Keunotor au niveau 15","['route-208', 'route-209', 'route-210', 'route-212', 'grand-marais', 'lac-courage', 'lac-savoir', 'rive-lac-courage', 'source-des-adieux']",14
+400,401,Crikzik,"Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 202, Route 203, Route 204, Route 206, Route 207","['route-202', 'route-203', 'route-204', 'route-206', 'route-207']",15
+401,402,Mélokrik,"Jardin Trophée, Rive Lac Courage, Route 206, Route 210, Route 212, Route 214, Route 215Évolution de Crikzik au niveau 10","['route-206', 'route-210', 'route-212', 'route-214', 'route-215', 'manoir-pokemon', 'rive-lac-courage']",16
+402,403,Lixy,"Forge Fuego, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie), Route 202, Route 203, Route 204","['route-202', 'route-203', 'route-204', 'forge-fuego']",17
+403,404,Luxio,"Forge Fuego, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie)Évolution de Lixy au niveau 15",['forge-fuego'],18
+404,405,Luxray,Évolution de Luxio au niveau 30,[],19
+405,406,Rozbouton,"Forêt de Vestigion, Grand Marais, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 204, Route 212Reproduction de Rosélia ou Roserade avec Encens Fleur tenu","['route-204', 'route-212', 'foret-vestigion', 'grand-marais']",25
+406,407,Roserade,Évolution de Rosélia en utilisant une Pierre Éclat,[],27
+407,408,Kranidos,"Charbourg (via Fossile Crâne, exclusif à Diamant)",[],36
+408,409,Charkos,Évolution de Kranidos au niveau 30,[],37
+409,410,Dinoclier,"Charbourg (via Fossile Armure, exclusif à Perle)",[],38
+410,411,Bastiodon,Évolution de Dinoclier au niveau 30,[],39
+411,412,Cheniti,Arbres à Miel,[],45
+412,413,Cheniselle,Évolution de Cheniti femelle au niveau 20,[],46
+413,414,Papilord,Évolution de Cheniti mâle au niveau 20,[],47
+414,415,Apitrini,"Arbres à Miel, Grands Souterrains (Biome Prairie)",[],53
+415,416,Apireine,Évolution de Apitrini femelle au niveau 21,[],54
+416,417,Pachirisu,"Forge Fuego, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Parc Éolien, Route 205","['route-205', 'forge-fuego', 'parc-eolien']",55
+417,418,Mustébouée,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Parc Éolien, Route 205, Route 213, Route 224","['route-205', 'route-213', 'route-224', 'parc-eolien']",56
+418,419,Mustéflott,"Chenal 230, Forge Fuego, Route 213, Route 218, Route 221, Route 222, Route 224, Route VictoireÉvolution de Mustébouée au niveau 26","['route-213', 'route-218', 'route-221', 'route-222', 'route-224', 'chenal-230', 'forge-fuego', 'route-victoire']",57
+419,420,Ceribou,"Arbres à Miel, Grands Souterrains (Biome Prairie)",[],58
+420,421,Ceriflor,Évolution de Ceribou au niveau 25,[],59
+421,422,Sancoki,"Occident : Forge Fuego, Grands Souterrains (Biome Eaux), Parc Éolien, Route 205, Route 218, Route 221Orient : Route 213, Route 224","['route-205', 'route-213', 'route-218', 'route-221', 'route-224', 'forge-fuego', 'parc-eolien']",60
+422,423,Tritosor,"Occident : Forge Fuego, Grands Souterrains (Biome Eaux), Route 218, Route 221Orient : Chenal 230, Route 222, Route 224Évolution de Sancoki au niveau 30","['route-218', 'route-221', 'route-222', 'route-224', 'chenal-230', 'forge-fuego']",61
+423,424,Capidextre,Évolution de Capumain par montée de niveau en ayant appris Coup Double,[],64
+424,425,Baudrive,Parc Éolien,[],65
+425,426,Grodrive,Évolution de Baudrive au niveau 28,[],66
+426,427,Laporeille,"Forêt de Vestigion, Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)",['foret-vestigion'],67
+427,428,Lockpin,Évolution de Laporeille par montée de niveau avec beaucoup d'amitié,[],68
+428,429,Magirêve,Évolution de Feuforêve en utilisant une Pierre Nuit,[],73
+429,430,Corboss,Évolution de Cornèbre en utilisant une Pierre Nuit,[],75
+430,431,Chaglam,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 218, Route 222","['route-218', 'route-222']",76
+431,432,Chaffreux,"Perle : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 222, Route 229Évolution de Chaglam au niveau 38","['route-222', 'route-229']",77
+432,433,Korillon,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Grotte), Lac Courage, Lac Savoir, Mont Couronné, Route 211Reproduction de Éoko avec Encens Pur tenu","['route-211', 'lac-courage', 'lac-savoir', 'mont-couronne']",82
+433,434,Moufouette,"Diamant : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 206, Route 214, Route 221","['route-206', 'route-214', 'route-221']",84
+434,435,Moufflair,"Diamant : Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie), Route 221, Route 225Évolution de Moufouette au niveau 34","['route-221', 'route-225']",85
+435,436,Archéomire,"Grands Souterrains (Biome Cristaux), Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Sables), Grotte du Retour, Grotte des Égarés, Mont Couronné, Route 206","['route-206', 'grotte-retour', 'grotte-des-egares', 'mont-couronne']",88
+436,437,Archéodong,"Grotte du Retour, Mont CouronnéÉvolution de Archéomire au niveau 33","['grotte-retour', 'mont-couronne']",89
+437,438,Manzaï,"Jardin Trophée, Route 209PS, Route 210PSReproduction de Simularbre avec Encens Roc tenu","['route-209', 'route-210', 'manoir-pokemon']",92
+438,439,Mime Jr.,"Jardin Trophée, Route 209DE, Route 210DEReproduction de M. Mime avec Encens Bizarre tenu","['route-209', 'route-210', 'manoir-pokemon']",94
+439,440,Ptiravi,"Jardin Trophée, UnionpolisReproduction de Leveinard ou Leuphorie avec Encens Veine tenu",['manoir-pokemon'],96
+440,441,Pijako,"Route 222, Route 224, Vestigion","['route-222', 'route-224']",102
+441,442,Spiritomb,Route 209,[],108
+442,443,Griknot,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux), Grotte des Égarés",['grotte-des-egares'],109
+443,444,Carmache,"Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Prairie / Eaux)Évolution de Griknot au niveau 24",[],110
+444,445,Carchacrok,Évolution de Carmache au niveau 48,[],111
+445,446,Goinfrex,"Arbres à Miel, Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Neige), Grands Souterrains (Biome Prairie / Eaux), Grands Souterrains (Biome Prairie)Reproduction de Ronflex avec Encens Plein tenu",[],112
+446,447,Riolu,Île de FerReproduction de Lucario,[],115
+447,448,Lucario,Évolution de Riolu par montée de niveau avec beaucoup d'amitié le jour,[],116
+448,449,Hippopotas,"Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables), Tunnel du Ruinophile",['grotte-ruinophile'],122
+449,450,Hippodocus,Route 228Évolution de Hippopotas au niveau 34,['route-228'],123
+450,451,Rapion,"Grand Marais, Grands Souterrains (Biome Lave), Grands Souterrains (Biome Marais), Grands Souterrains (Biome Sables / Lave), Grands Souterrains (Biome Sables)",['grand-marais'],127
+451,452,Drascore,Grand MaraisÉvolution de Rapion au niveau 40,['grand-marais'],128
+452,453,Cradopaud,"Grand Marais, Grands Souterrains (Biome Marais), Grands Souterrains (Biome Prairie / Eaux)",['grand-marais'],129
+453,454,Coatox,Grand MaraisÉvolution de Cradopaud au niveau 37,['grand-marais'],130
+454,455,Vortente,Grand Marais,['grand-marais'],131
+455,456,Écayon,"Chenal 220, Forge Fuego, Joliberges, Parc Éolien, Route 205, Route 218, Route 219, Route 221, Île de Fer","['route-205', 'route-218', 'route-219', 'chenal-220', 'route-221', 'forge-fuego', 'ile-de-fer', 'parc-eolien']",134
+456,457,Luminéon,"Chenal 220, Forge Fuego, Joliberges, Parc Éolien, Route 205, Route 218, Route 219, Route 221, Île de FerÉvolution de Écayon au niveau 31","['route-205', 'route-218', 'route-219', 'chenal-220', 'route-221', 'forge-fuego', 'ile-de-fer', 'parc-eolien']",135
+457,458,Babimanta,"Chenal 223, Grands Souterrains (Biome Eaux), Grands Souterrains (Biome Grotte), Grands Souterrains (Biome Prairie / Eaux), RivamarReproduction de Démanta avec Encens Vague tenu",['chenal-223'],140
+458,459,Blizzi,"Grands Souterrains (Biome Glacier), Grands Souterrains (Biome Neige / Glacier), Grands Souterrains (Biome Neige), Mont Couronné, Rive Lac Savoir, Route 216, Route 217","['route-216', 'route-217', 'mont-couronne', 'rive-lac-savoir']",142
+459,460,Blizzaroi,Mont CouronnéÉvolution de Blizzi au niveau 40,['mont-couronne'],143
+460,461,Dimoret,Évolution de Farfuret par montée de niveau avec Griffe Rasoir tenue la nuit,[],145
+461,462,Magnézone,Évolution de Magnéton par montée de niveau au Mont Couronné ou en utilisant une Pierre Foudre,[],-1
+462,463,Coudlangue,Évolution de Excelangue par montée de niveau en ayant appris Roulade,[],-1
+463,464,Rhinastoc,Évolution de Rhinoféros par échange avec Protecteur tenu,[],-1
+464,465,Bouldeneu,Grands Souterrains (Biome Marais)Évolution de Saquedeneu par montée de niveau en ayant appris Pouvoir Antique,[],-1
+465,466,Élekable,Évolution de Élektek par échange avec Électriseur tenu,[],-1
+466,467,Maganon,Évolution de Magmar par échange avec Magmariseur tenu,[],-1
+467,468,Togekiss,Évolution de Togetic en utilisant une Pierre Éclat,[],-1
+468,469,Yanmega,Évolution de Yanma par montée de niveau en ayant appris Pouvoir Antique,[],-1
+469,470,Phyllali,Évolution de Évoli par montée de niveau près de la Roche Mousse dans la Forêt de Vestigion ou en utilisant une Pierre Plante,[],-1
+470,471,Givrali,Évolution de Évoli par montée de niveau près de la Roche Glace sur la Route 217,[],-1
+471,472,Scorvol,Évolution de Scorplane par montée de niveau avec Croc Rasoir tenu la nuit,[],-1
+472,473,Mammochon,Évolution de Cochignon par montée de niveau en ayant appris Pouvoir Antique,[],-1
+473,474,Porygon-Z,Évolution de Porygon2 par échange avec CD Douteux tenu,[],-1
+474,475,Gallame,Évolution de Kirlia mâle en utilisant une Pierre Aube,[],-1
+475,476,Tarinorme,Évolution de Tarinor par montée de niveau au Mont Couronné,[],-1
+476,477,Noctunoir,Évolution de Téraclope par échange avec Tissu Fauche tenu,[],-1
+477,478,Momartik,Évolution de Stalgamin femelle en utilisant une Pierre Aube,[],-1
+478,479,Motisma,Vieux Château,[],-1
+479,480,Créhelf,Lac Savoir,[],146
+480,481,Créfollet,Lac Vérité,[],147
+481,482,Créfadet,Lac Courage,[],148
+482,483,Dialga,Diamant : Colonnes Lances,[],149
+483,484,Palkia,Perle : Colonnes Lances,[],150
+484,485,Heatran,Mont Abrupt,[],-1
+485,486,Regigigas,Temple de Frimapic,[],-1
+486,487,Giratina,Grotte du Retour,[],-1
+487,488,Cresselia,Île Pleine Lune,[],-1
+488,489,Phione,Reproduction de Manaphy ou Phione,[],-1
+489,490,Manaphy,Événement,[],151
+490,491,Darkrai,-,[],-1
+491,492,Shaymin,-,[],-1
+492,493,Arceus,-,[],-1
