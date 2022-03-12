@@ -6,6 +6,17 @@ import argparse
 import pandas as pd
 
 
+# Print required information
+def print_places(places):
+    for place in places:
+        print(f"# Place: {place['place']}")
+        print()
+        for key in place.keys():
+            if key != "place":
+                print(f"# {key}: {place[key]}")
+        print()
+
+
 # Find pokemon definition
 def find_pokemon(**kwargs):
     """Finds a pokemon based on specific criterions
@@ -44,6 +55,9 @@ def find_pokemon(**kwargs):
         if places != "[]":  # This pokemon is found on places
             # Clean places (pandas does not correctly support array in cells)
             places = places[1:-1].replace("'", "").replace(" ", "").split(",")
+            prob = 0
+            all_places = []
+            max_prob_places = []
             # Print informations for each route
             # TODO: change this with required information (max prob)
             for place in places:
@@ -62,11 +76,44 @@ def find_pokemon(**kwargs):
                         "level",
                     ]
                 }
-                print(f"# Place: {place}")
-                print()
+
+                values["place"] = place
                 for key in values.keys():
-                    print(f"# {key}: {values[key]}")
-                print()
+                    if key.startswith("probability"):
+                        if values[key] > prob:
+                            max_prob_places = [
+                                {
+                                    "place": place,
+                                    "place_type": values["place_type"],
+                                    key: values[key],
+                                }
+                            ]
+                            prob = values[key]
+                        # To print all places with the same max prob
+                        elif values[key] == prob:
+                            max_prob_places.append(
+                                {
+                                    "place": place,
+                                    "place_type": values["place_type"],
+                                    key: values[key],
+                                }
+                            )
+
+                all_places.append(values)
+
+            if kwargs["max_prob"]:
+                # To print on the same paragraph max probabilities of a same place
+                i = 0
+                while i < len(max_prob_places) - 1:
+                    if max_prob_places[i]["place"] == max_prob_places[i + 1]["place"]:
+                        for key in max_prob_places[i + 1].keys():
+                            max_prob_places[i][key] = max_prob_places[i + 1][key]
+                        max_prob_places.pop(i + 1)
+                    else:
+                        i += 1
+                print_places(max_prob_places)
+            else:
+                print_places(all_places)
         else:
             print(df[df[criteria_type] == criteria].localisation)
     else:
@@ -78,13 +125,18 @@ def find_pokemon(**kwargs):
 
 # Main definition
 def main():
-    """ Console script to find pokemons """
+    """Console script to find pokemons"""
     # Create parser
     parser = argparse.ArgumentParser()
 
     # Configure arguments
     parser.add_argument("--name", type=str)
     parser.add_argument("--id", type=int)
+    parser.add_argument(
+        "--max-prob",
+        action="store_true",
+        help="shows only the place where we can find the pokemon at max probability",
+    )
 
     # Read arguments
     try:
