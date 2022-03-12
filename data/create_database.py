@@ -3,6 +3,7 @@
 """
 
 # Imports
+import os
 import re
 import requests
 import pandas as pd
@@ -127,8 +128,8 @@ def scrap_page(url, region):
         p_version = False
         txt = row["probability"]
         probabilities, probability_types = (
-            re.findall("[0-9]+%", txt),
-            re.split("[0-9]+%", txt)[1:],
+            re.findall(r"[0-9]+%", txt),
+            re.split(r"[0-9]+%", txt)[1:],
         )
         for i in range(len(probabilities)):
             probabilities[i] = int(probabilities[i][:-1])
@@ -158,6 +159,28 @@ def scrap_page(url, region):
 
     route_df = route_df.apply(clean_prob, axis=1)
     del route_df["probability"]
+
+    def clean_level(row):
+        level = row["level"]
+        levels = re.split(r"([0-9]+\-[0-9]+|[0-9]+)", level)[1:]
+        if len(levels) > 1 and levels[1] != "":
+            row["level_M"] = -1
+            row["level_J"] = -1
+            row["level_N"] = -1
+            for i in range(0, len(levels), 2):
+                level, day_period = levels[i], levels[i + 1]
+                for period in ["M", "J", "N"]:
+                    if period in day_period.upper():
+                        row["level_" + period] = level
+        else:
+            # Same level
+            row["level_M"] = level
+            row["level_J"] = level
+            row["level_N"] = level
+        return row
+
+    route_df = route_df.apply(clean_level, axis=1)
+    del route_df["level"]
 
     # Return infos
     return route_df
@@ -190,6 +213,7 @@ def main():
 
     print("Start enriching pokemon table")
     # Enrich pokemon_df with place presence
+    os.mkdir(region + "/routes")
     for route_name, route_df in all_routes_dict.items():
         # Enrich pokemon_df with place
         def update_place(row):

@@ -5,7 +5,8 @@ import pandas as pd
 
 # %%
 # Load dataset
-df = pd.read_csv("../data/sinnoh/routes/route-210.csv")
+df = pd.read_csv("../data/sinnoh/routes/route-229.csv")
+df
 
 
 # %%
@@ -92,4 +93,7 @@ del df["probability"]
 
 # %%
 # Test
-df
+for i, row in df.iterrows():
+    if i == 1:
+        break
+row

@@ -5,8 +5,11 @@
 .mypy_cache
 
 # CSV of regions
-data/sinnoh/routes/*.csv
+data/*/routes/*.csv
 
 # Virtual environment
 venv
 virtualenv
+
+# Pokemon files
+data/*/pokemons.csv
