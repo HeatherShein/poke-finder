@@ -6,6 +6,24 @@ import argparse
 import pandas as pd
 
 
+# Converts string with level range to the max level we can find
+def str_to_max_lvl(str_level: str):
+    return int(str_level.split("-")[-1])
+
+
+# Fuse several place dicts to one when they have the same place
+def fuse_place_dict(array_place):
+    i = 0
+    while i < len(array_place) - 1:
+        if array_place[i]["place"] == array_place[i + 1]["place"]:
+            for key in array_place[i + 1].keys():
+                array_place[i][key] = array_place[i + 1][key]
+            array_place.pop(i + 1)
+        else:
+            i += 1
+    return array_place
+
+
 # Print required information
 def print_places(places):
     for place in places:
@@ -56,8 +74,10 @@ def find_pokemon(**kwargs):
             # Clean places (pandas does not correctly support array in cells)
             places = places[1:-1].replace("'", "").replace(" ", "").split(",")
             prob = 0
+            lvl = 0
             all_places = []
             max_prob_places = []
+            max_lvl_places = []
             # Print informations for each route
             # TODO: change this with required information (max prob)
             for place in places:
@@ -81,6 +101,25 @@ def find_pokemon(**kwargs):
 
                 values["place"] = place
                 for key in values.keys():
+                    if key.startswith("level"):
+                        max_lvl = str_to_max_lvl(values[key])
+                        if max_lvl > lvl:
+                            max_lvl_places = [
+                                {
+                                    "place": place,
+                                    "place_type": values["place_type"],
+                                    key: values[key],
+                                }
+                            ]
+                            lvl = max_lvl
+                        elif max_lvl == lvl:
+                            max_lvl_places.append(
+                                {
+                                    "place": place,
+                                    "place_type": values["place_type"],
+                                    key: values[key],
+                                }
+                            )
                     if key.startswith("probability"):
                         if values[key] > prob:
                             max_prob_places = [
@@ -104,16 +143,9 @@ def find_pokemon(**kwargs):
                 all_places.append(values)
 
             if kwargs["max_prob"]:
-                # To print on the same paragraph max probabilities of a same place
-                i = 0
-                while i < len(max_prob_places) - 1:
-                    if max_prob_places[i]["place"] == max_prob_places[i + 1]["place"]:
-                        for key in max_prob_places[i + 1].keys():
-                            max_prob_places[i][key] = max_prob_places[i + 1][key]
-                        max_prob_places.pop(i + 1)
-                    else:
-                        i += 1
-                print_places(max_prob_places)
+                print_places(fuse_place_dict(max_prob_places))
+            elif kwargs["max_lvl"]:
+                print_places(fuse_place_dict(max_lvl_places))
             else:
                 print_places(all_places)
         else:
@@ -138,6 +170,11 @@ def main():
         "--max-prob",
         action="store_true",
         help="shows only the place where we can find the pokemon at max probability",
+    )
+    parser.add_argument(
+        "--max-lvl",
+        action="store_true",
+        help="shows only the place where we can find the pokemon at the highest level",
     )
 
     # Read arguments
