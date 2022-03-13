@@ -238,7 +238,8 @@ def main():
 
     print("Start enriching pokemon table")
     # Enrich pokemon_df with place presence
-    os.mkdir(region + "/routes")
+    if not os.path.isdir(region + "/routes"):
+        os.mkdir(region + "/routes")
     for route_name, route_df in all_routes_dict.items():
         # Enrich pokemon_df with place
         def update_place(row):
